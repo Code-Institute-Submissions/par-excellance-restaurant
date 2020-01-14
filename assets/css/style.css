@@ -1,16 +1,13 @@
 
 body {
   font-family: "Raleway", sans-serif;
+  font-size: 16px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
+  text-transform: uppercase;
 }
 
 /* --------------------------------------------------------------------------- Navbar */
@@ -81,23 +78,20 @@ nav ul li button {
 .header-logo-text {
     font-family: "Kristi", cursive;
     font-size: 100px;
-    
 }
 
 .header-h3-text {
-    text-transform: uppercase;
     font-size: 30px;
-    /* font-family: "Montserrat", sans-serif;
-    font-weight: 300; */
 }
 
 .header-text {
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
-.container-fluid {
-    background: url("../images/img-header.jpg") no-repeat center center;
-    background-size: 100%;
+header {
+    background-color: gray;
+    height: 400px;
+    
 }
 
 .cta-black {
@@ -117,6 +111,38 @@ nav ul li button {
     color: black;
 }
 
+header button {
+    margin-top: 10px;
+}
 
 
 /* --------------------------------------------------------------------------- Header */
+
+/* --------------------------------------------------------------------------- About */
+
+.section-about {
+    margin: 5%;
+}
+
+.section-about img {
+    width: 100%;
+}
+
+.about-h3-text {
+    font-size: 30px;
+    text-align: center;
+}
+
+.dish-label-icon img {
+    width: 30px;
+    height: 30px;;
+}
+
+.dish-label {
+    margin-left: 5%;
+}
+
+.section-about p {
+    text-align: left;
+    margin-top: 3%;
+}
