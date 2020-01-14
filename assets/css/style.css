@@ -45,6 +45,7 @@ nav ul li {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-size: 18px;
+    font-weight: 300;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -63,6 +64,7 @@ nav ul li button {
     border: 1px solid white;
     padding: 0 9px;
     font-size: 18px;
+    font-weight: 300;
 }
 
 /* changing the burger menu to something closer to brand */
@@ -73,3 +75,48 @@ nav ul li button {
 
 
 /* --------------------------------------------------------------------------- Navbar */
+
+/* --------------------------------------------------------------------------- Header */
+
+.header-logo-text {
+    font-family: "Kristi", cursive;
+    font-size: 100px;
+    
+}
+
+.header-h3-text {
+    text-transform: uppercase;
+    font-size: 30px;
+    /* font-family: "Montserrat", sans-serif;
+    font-weight: 300; */
+}
+
+.header-text {
+    margin-top: 20%;
+}
+
+.container-fluid {
+    background: url("../images/img-header.jpg") no-repeat center center;
+    background-size: 100%;
+}
+
+.cta-black {
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+    border: 1px solid black;
+    padding: 0 9px;
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+}
+
+.cta-black:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+
+
+/* --------------------------------------------------------------------------- Header */
