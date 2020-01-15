@@ -125,9 +125,10 @@ header button {
 
 .div-about img {
     width: 100%;
+    /* margin: 0 auto; */
 }
 
-.about-h2-text {
+.about-h2-text, .reviews-h2-text {
     font-size: 30px;
     text-align: center;
 }
@@ -142,8 +143,31 @@ header button {
 }
 
 .section-about p {
-    text-align: left;
+    text-align: center;
     margin-top: 3%;
 }
 
 /* --------------------------------------------------------------------------- About */
+
+
+/* --------------------------------------------------------------------------- Reviews */
+
+.quote {
+    font-style: italic;
+    text-align: center;
+    width: 200px;
+    margin: 5% auto;
+}
+
+.quote-by {
+    text-align: center;
+}
+
+
+.div-reviews img {
+    border-radius: 50%;
+    max-width: 120px;
+    max-height: 120px;
+    margin: 5% auto;
+    display: block;
+}
