@@ -4,7 +4,7 @@ body {
   font-size: 16px;
 }
 
-h3 {
+h3, h2 {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
@@ -79,7 +79,7 @@ nav ul li button {
     font-family: "Kristi", cursive;
     font-size: 100px;
 }
-
+/* ..............................for mob - header logo 85px, header h3 30px */
 .header-h3-text {
     font-size: 30px;
 }
@@ -90,8 +90,7 @@ nav ul li button {
 
 header {
     background-color: gray;
-    height: 400px;
-    
+    min-height: 400px;
 }
 
 .cta-black {
@@ -120,15 +119,15 @@ header button {
 
 /* --------------------------------------------------------------------------- About */
 
-.section-about {
+.div-about {
     margin: 5%;
 }
 
-.section-about img {
+.div-about img {
     width: 100%;
 }
 
-.about-h3-text {
+.about-h2-text {
     font-size: 30px;
     text-align: center;
 }
@@ -146,3 +145,5 @@ header button {
     text-align: left;
     margin-top: 3%;
 }
+
+/* --------------------------------------------------------------------------- About */
