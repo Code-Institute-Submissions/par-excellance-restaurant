@@ -102,16 +102,14 @@ header {
     font-size: 18px;
     font-weight: 300;
     color: white;
+    display: block;
+    margin: 10px auto;
 }
 
 .cta-black:hover{
     background-color: white;
     border: 1px solid black;
     color: black;
-}
-
-header button {
-    margin-top: 10px;
 }
 
 
@@ -128,7 +126,7 @@ header button {
     /* margin: 0 auto; */
 }
 
-.about-h2-text, .reviews-h2-text {
+.about-h2-text, .reviews-h2-text, .opening-hours-h2-text {
     font-size: 30px;
     text-align: center;
 }
@@ -170,4 +168,20 @@ header button {
     max-height: 120px;
     margin: 5% auto;
     display: block;
+}
+
+
+/* --------------------------------------------------------------------------- Reviews */
+
+
+/* --------------------------------------------------------------------------- Opening Hours */
+
+.div-opening-hours {
+    background: url('../images/img-footer.jpg') no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+.div-opening-hours p {
+    text-align: center;
 }
