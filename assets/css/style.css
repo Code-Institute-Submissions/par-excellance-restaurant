@@ -2,6 +2,7 @@
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
+  color: #333333;
 }
 
 h3, h2 {
@@ -20,17 +21,17 @@ h3, h2 {
 }
 
 .navbar-light .navbar-brand {
-    color: white;
+    color: #ffffff;
 }
 
 /*  ? didnt know how to remove the bootstrap hover effect from the navbar-brand*/
 .navbar-light .navbar-brand:hover {
-    color: white;
+    color: #ffffff;
 }
 
 /* changing navbar to black */
 .navbar {
-    background-color: black;
+    background-color: #000000;
     /* height: 55px; */
 }
 
@@ -45,7 +46,7 @@ h3, h2 {
 
 /* styling navbar links */
 .navbar-light .navbar-nav .nav-link {
-    color: white;
+    color: #ffffff;
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
@@ -54,7 +55,7 @@ h3, h2 {
 
 /*  ? didnt know how to remove the bootstrap hover effect */
 .navbar-light .navbar-nav .nav-link:hover {
-    color: white;
+    color: #ffffff;
 }
 
 /* styling nav cta */
@@ -64,19 +65,19 @@ h3, h2 {
     font-weight: 300;
     padding: 10px 20px;
     margin: 8px;
-    background-color: transparent;
-    border: 1px solid white;
+    background-color: #000000;
+    border: 1px solid #ffffff;
 }
 
 #cta-nav:hover {
-    background-color: white;
-    border: 1px solid black;
-    color: black
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    color: #000000;
 }
 
 /* changing the burger menu to something closer to brand */
 .navbar-light .navbar-toggler {
-    border-color: white;
+    border-color: #ffffff;
     border-radius: 0px;
 }
 
@@ -91,10 +92,12 @@ h3, h2 {
 .header-logo-text {
     font-family: "Kristi", cursive;
     font-size: 100px;
+    color: #000000;
 }
 /* ..............................for mob - header logo 85px, header h3 30px */
 .header-h3-text {
     font-size: 30px;
+    color: #000000;
 }
 
 .header-text {
@@ -109,20 +112,20 @@ header {
 .cta-black {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
-    background-color: black;
-    border: 1px solid black;
+    background-color: #000000;
+    border: 1px solid #000000;
     padding: 10px 20px;
     font-size: 16px;
     font-weight: 300;
-    color: white;
+    color: #ffffff;
     display: block;
     margin: 10px auto;
 }
 
 .cta-black:hover{
-    background-color: white;
-    border: 1px solid black;
-    color: black;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    color: #000000;
 }
 
 
@@ -156,6 +159,10 @@ header {
 .section-about p {
     text-align: center;
     margin-top: 3%;
+}
+
+strong {
+    font-weight: 500;
 }
 
 /* --------------------------------------------------------------------------- About */
@@ -203,7 +210,11 @@ header {
 
 footer {
     min-height: 145px;
-    background-color: black;
+    background-color: #000000;
+}
+
+footer p {
+    color: #ffffff;
 }
 
 /* styling footer cta */
@@ -214,14 +225,14 @@ footer {
     padding: 10px 20px;
     margin: 8px;
     background-color: transparent;
-    border: 1px solid white;
-    color: white;
+    border: 1px solid #ffffff;
+    color: #ffffff;
 }
 
 #cta-footer:hover {
-    background-color: white;
-    border: 1px solid black;
-    color: black
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    color: #000000;
 }
 
 /* .social-icon {
