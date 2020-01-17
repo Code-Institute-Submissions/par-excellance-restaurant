@@ -92,6 +92,7 @@ h3, h2 {
 header {
     background: url('../images/img-header.jpg') no-repeat center center;
     height: 90vh;
+    background-size: cover;
 }
 
 .header-text {
@@ -186,6 +187,7 @@ strong {
 
 .div-about-img {
     width: 100%;
+    box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.12);
     /* margin: 0 auto; */
 }
 
