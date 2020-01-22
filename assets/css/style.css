@@ -70,10 +70,14 @@ h2 {
     margin: 8px;
     background-color: #000000;
     border: 1px solid #ffffff;
+
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 #cta-nav:hover {
-    background-color: #ffffff;
+    background-color: #E5E5E5;
     border: 1px solid #000000;
     color: #000000;
 }
@@ -128,12 +132,17 @@ header {
     color: #ffffff;
     display: block;
     margin: 10px auto;
+    
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 .cta-black:hover{
-    background-color: #ffffff;
+    background-color: #E5E5E5;
     border: 1px solid #000000;
     color: #000000;
+
 }
 
 header .cta-black {
@@ -339,25 +348,57 @@ footer p {
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
     padding: 10px 20px;
-    margin: 8px;
+    margin: 5%;
     background-color: transparent;
     border: 1px solid #ffffff;
     color: #ffffff;
+
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 #cta-footer:hover {
-    background-color: #ffffff;
+    background-color: #E5E5E5;
     border: 1px solid #000000;
     color: #000000;
 }
 
-/* .social-icon {
-    display: inline;
+i {
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #000000;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    margin: 5%;
+    padding-top: 5px;
+
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
-.social-icon i {
-    width: 50px;
-    height: 50px;
-    background-color: white;
-} */
+i:hover {
+    color: #555555;
+}
 
+.social-icons {
+    margin: 0 auto;
+}
+
+input[type="email"] {
+    border: 1px solid black;
+    border-radius: 0px;
+    max-width: 300px;
+    height: 45px;
+}
+
+.form-group {
+    display: inline-block;
+    margin: 5% ;
+}
+
+.copyrights {
+        margin: 5% 0;
+}
