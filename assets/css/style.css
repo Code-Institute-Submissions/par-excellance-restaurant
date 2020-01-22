@@ -16,7 +16,7 @@ h3, h2 {
 /* styling the brand logo */
 .navbar-brand {
     font-family: "Kristi", cursive;
-    font-size: 36px;
+    font-size: 40px;
     margin-left: 10px;
 }
 
@@ -169,6 +169,18 @@ header .cta-black {
     text-align: right;
 }
 
+@media (max-width: 992px) {
+    .div-about-text-1 {
+        text-align: left;
+    }
+    .div-about-img {
+        margin: 5% auto;
+    }
+    .about-h2-text {
+        font-size: 1.5rem;
+    }
+}
+
 .div-about-text-2 {
     text-align: left;
 }
@@ -187,17 +199,13 @@ strong {
 
 .div-about-img {
     width: 100%;
+    max-width: 500px;
     box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.12);
-    /* margin: 0 auto; */
-}
-
-.dish-label {
-    float: right;
 }
 
 .dish-label-icon {
     display: inline;
-    margin: 2% 0;
+    margin: 2% 3% 2% 0;
 }
 
 .dish-label-icon img {
@@ -220,7 +228,7 @@ strong {
 .quote {
     font-style: italic;
     text-align: center;
-    width: 200px;
+    max-width: 280px;
     margin: 5% auto;
 }
 
@@ -228,13 +236,27 @@ strong {
     text-align: center;
 }
 
-
 .div-reviews img {
     border-radius: 50%;
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 125px;
+    max-height: 125px;
     margin: 5% auto;
     display: block;
+    margin: 10% auto;
+}
+
+.review {
+    margin: 5% auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
+    max-width: 350px;
+    min-height: 380px;
+    padding: 0;
+    border-bottom: 5px solid #333333;
+}
+
+.review hr {
+    width: 35px;
+    border: 0.5px solid #333333;
 }
 
 
