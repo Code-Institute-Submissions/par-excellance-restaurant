@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <!-- Custom fonts -->
     <script src="https://kit.fontawesome.com/ab0d80c64f.js" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css?family=Kristi|Montserrat:300,400|Raleway:300,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kristi|Montserrat:300,400,700|Raleway:300,400,700&display=swap" rel="stylesheet">
     <!-- Custom styles -->
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
@@ -84,16 +84,16 @@
                 </p>
                 <div class="dish-label">
                     <div class="dish-label-icon">
-                        <img src="assets/images/icons/svg-gluten-free.svg" alt="Gluten-free icon">
+                        <img src="assets/images/icons/icons-food-labels/svg-gluten-free.svg" alt="Gluten-free icon">
                     </div>
                     <div class="dish-label-icon">
-                        <img src="assets/images/icons/svg-dairy-free.svg" alt="Dairy-free icon">
+                        <img src="assets/images/icons/icons-food-labels/svg-dairy-free.svg" alt="Dairy-free icon">
                     </div>
                     <div class="dish-label-icon">
-                        <img src="assets/images/icons/svg-peanut-free.svg" alt="Peanut-free icon">
+                        <img src="assets/images/icons/icons-food-labels/svg-peanut-free.svg" alt="Peanut-free icon">
                     </div>
                     <div class="dish-label-icon">
-                        <img src="assets/images/icons/svg-no-sugar.svg" alt="No-added-sugar icon">
+                        <img src="assets/images/icons/icons-food-labels/svg-no-sugar.svg" alt="No-added-sugar icon">
                     </div>
                 </div>
                 </div>
@@ -135,38 +135,44 @@
     <div class="div-reviews container">
         <h2 class="reviews-h2-text">What Our Customers Say:</h2>
         <div class="row">
-            <div class="col-lg-4 review">
-                <img src="assets/images/img-quote-amanda.jpg" alt="">
-                <p class="quote">
-                    <b>“</b>I react severely to gluten and dairy. 
-                    I can finally have business lunches with my clients!<b>“</b>
-                </p>
-                <hr>
-                <p class="quote-by">
-                    Amanda K., London
-                </p>
+            <div class="col-lg-4">
+                <div class="review">
+                    <img src="assets/images/img-quote-amanda.jpg" class="img-review" alt="">
+                    <p class="quote">
+                        <span class="bold">“</span>I react severely to gluten and dairy. 
+                        I can finally have business lunches with my clients!<span class="bold">“</span>
+                    </p>
+                    <hr>
+                    <p class="quote-by">
+                        <span class="bold">Amanda K.</span> London
+                    </p>
+                </div>
             </div>
-            <div class="col-lg-4 review">
-                <img src="assets/images/img-quote-frank.jpg" alt="">
-                <p class="quote">
-                    <b>“</b>My fiance is allergic to gluten, dairy, eggs and soy.
-                    We have found a perfect wedding venue!<b>“</b>
-                </p>
-                <hr>
-                <p class="quote-by">
-                    Frank V., Reading
-                </p>
+            <div class="col-lg-4">
+                <div class="review">
+                    <img src="assets/images/img-quote-frank.jpg" alt="">
+                    <p class="quote">
+                        <span class="bold">“</span>My fiance is allergic to gluten, dairy, eggs and soy.
+                        We have found a perfect wedding venue!<span class="bold">“</span>
+                    </p>
+                    <hr>
+                    <p class="quote-by">
+                        <span class="bold">Frank V.</span> Reading
+                    </p>
+                </div>
             </div>
-            <div class="col-lg-4 review">
-                <img src="assets/images/img-quote-ella.jpg" alt="">
-                <p class="quote">
-                    <b>“</b>Our youngest son doesn’t tollerate starch and fructose.
-                    Here we can eat without worries!<b>“</b>
-                </p>
-                <hr>
-                <p class="quote-by">
-                    Ella D., London
-                </p>
+            <div class="col-lg-4">
+                <div class="review">
+                    <img src="assets/images/img-quote-ella.jpg" alt="">
+                    <p class="quote">
+                        <span class="bold">“</span>Our youngest son doesn’t tollerate starch and fructose.
+                        Here we can eat without worries!<span class="bold">“</span>
+                    </p>
+                    <hr>
+                    <p class="quote-by">
+                        <span class="bold">Ella D.</span> London
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -174,19 +180,37 @@
 <!-- Reviews -->
 
 
-<!-- Opening hours -->
-<section class="section-opening-hours">
-    <div class="div-opening-hours container-fluid">
-        <h2 class="opening-hours-h2-text">Opening Hours:</h2>
-        <p>
-            Mon - Fri: 12pm - 9pm
-            <br>
-            Sat - Sun: 1pm - 11pm
-        </p>
-        <button class="cta-black" href="#">Book a Table</button>
+<!-- Restaurant details -->
+<section class="section-restaurant-details">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 div-restaurant-details">
+                <div class="div-contact">
+                    <h2 class="contact-h2-text">Contact:</h2>
+                    <p>
+                        <img src="assets/images/icons/icons-contact/svg-mail.svg" alt="Email icon" class="svg-contact-icon">hello@parexcellance.com
+                        <br>
+                        <img src="assets/images/icons/icons-contact/svg-phone.svg" alt="Telephone icon" class="svg-contact-icon"> 555-9472-264
+                        <br>
+                        <img src="assets/images/icons/icons-contact/svg-map-pin.svg" alt="Map pin icon" class="svg-contact-icon"> 19 Royal Rd. London
+                    </p>
+                </div>
+                <div class="div-opening-hours">
+                <h2 class="opening-hours-h2-text">Opening Hours:</h2>
+                <p>
+                    <pre><span class="bold">Mon - Fri</span>    12pm - 9pm</pre>
+                    <pre><span class="bold">Sat - Sun</span>    1pm - 11pm</pre>
+                </p>
+                <button class="cta-black" href="#">Book a Table</button>
+                </div>
+            </div>
+            <!-- can i have empty div like this? -->
+            <div class="col-md-6">
+            </div>
+        </div>
     </div>
 </section>
-<!-- Opening hours -->
+<!-- Restaurant details -->
 
 
 <!-- Footer -->

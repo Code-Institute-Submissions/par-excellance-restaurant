@@ -11,6 +11,9 @@ h3, h2 {
   text-transform: uppercase;
 }
 
+h2 {
+    font-size: 30px;
+}
 /* --------------------------------------------------------------------------- Navbar */
 
 /* styling the brand logo */
@@ -218,12 +221,24 @@ strong {
 
 /* --------------------------------------------------------------------------- Reviews */
 
-.reviews-h2-text, .opening-hours-h2-text {
+.reviews-h2-text {
     margin-top: 8%;
-    font-size: 30px;
     text-align: center;
 }
 
+.review {
+    margin: 20% auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
+    max-width: 350px;
+    min-height: 380px;
+    border-bottom: 3px solid #333333;
+}
+
+@media (max-width: 992px) {
+    .review {
+        margin: 5% auto;
+    }
+}
 
 .quote {
     font-style: italic;
@@ -236,22 +251,12 @@ strong {
     text-align: center;
 }
 
-.div-reviews img {
+.review img {
     border-radius: 50%;
     max-width: 125px;
     max-height: 125px;
-    margin: 5% auto;
-    display: block;
-    margin: 10% auto;
-}
-
-.review {
-    margin: 5% auto;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
-    max-width: 350px;
-    min-height: 380px;
-    padding: 0;
-    border-bottom: 5px solid #333333;
+    margin: 10% 0 10% 33%;
+    /* why margin: 10% auto doesnt work? */
 }
 
 .review hr {
@@ -263,17 +268,59 @@ strong {
 /* --------------------------------------------------------------------------- Reviews */
 
 
-/* --------------------------------------------------------------------------- Opening Hours */
+/* --------------------------------------------------------------------------- Restaurant details */
 
-.div-opening-hours {
-    background: url('../images/img-footer.jpg') no-repeat center center;
+.section-restaurant-details .container-fluid {
+    background: url('../images/img-restaurant-details.jpg') no-repeat center center;
     background-size: cover;
-    height: 300px;
+    min-height: 600px;
 }
 
-.div-opening-hours p {
-    text-align: center;
+.div-restaurant-details {
+    max-width: 410px;
+    min-height: 475px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
+    background-color: #FFFFFF;
+    margin: 15% auto;
 }
+
+.opening-hours-h2-text, .contact-h2-text {
+    margin-top: 8%;
+    /* font-size: 30px; */
+    text-align: left;
+}
+
+.div-opening-hours .cta-black {
+    float: left;
+}
+
+.div-contact, .div-opening-hours {
+    margin: 10% 10%;
+}
+
+.div-contact p {
+    line-height: 245%;
+}
+
+pre {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    margin: 0;
+}
+
+.svg-contact-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 3%;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------- Restaurant details */
+
 
 /* --------------------------------------------------------------------------- Footer */
 
