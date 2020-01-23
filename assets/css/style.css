@@ -112,8 +112,8 @@ header {
 
 .header-text {
     margin-top: 30vh;
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.07) 0%, rgba(255, 255, 255, 0.7) 21.41%, rgba(255, 255, 255, 0.7) 78.6%, rgba(255, 255, 255, 0.07) 100%);
-    max-width: 500px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.7) 21.41%, rgba(255, 255, 255, 0.7) 78.6%, rgba(255, 255, 255, 0) 100%);
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -353,11 +353,12 @@ footer p {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    padding: 8px 20px;
-    margin: 15px 2%;
+    padding: 6px 20px 10px 20px;
+    margin: 15px 0 0 2%;
     background-color: transparent;
     border: 1px solid #ffffff;
     color: #ffffff;
+    height: 35px;
 
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -371,11 +372,11 @@ footer p {
 }
 
 i {
-    font-size: 30px;
+    font-size: 25px;
     background-color: #ffffff;
     color: #000000;
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
     text-align: center;
     margin: 0 5%;
     padding-top: 5px;
@@ -397,7 +398,10 @@ input[type="email"] {
     border: 1px solid black;
     border-radius: 0px;
     max-width: 300px;
-    height: 45px;
+    height: 35px;
+    border: none;
+    margin-bottom: 4px;
+    width: 240px;
         /* margin: 5% 0; */
 }
 
@@ -407,7 +411,7 @@ input[type="email"] {
 }
 
 form {
-    margin-left: 10%
+    margin-left: 10%;
 }
 
 .copyrights {
