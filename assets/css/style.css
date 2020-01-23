@@ -334,7 +334,7 @@ pre {
 /* --------------------------------------------------------------------------- Footer */
 
 footer {
-    min-height: 145px;
+    min-height: 100px;
     background-color: #000000;
 }
 
@@ -347,8 +347,8 @@ footer p {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    padding: 10px 20px;
-    margin: 5%;
+    padding: 8px 20px;
+    margin: 10px 2%;
     background-color: transparent;
     border: 1px solid #ffffff;
     color: #ffffff;
@@ -371,7 +371,7 @@ i {
     width: 45px;
     height: 45px;
     text-align: center;
-    margin: 5%;
+    margin: 0 5%;
     padding-top: 5px;
 
     transition: all .5s ease-in-out;
@@ -384,7 +384,7 @@ i:hover {
 }
 
 .social-icons {
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 input[type="email"] {
@@ -392,13 +392,18 @@ input[type="email"] {
     border-radius: 0px;
     max-width: 300px;
     height: 45px;
+        /* margin: 5% 0; */
 }
 
-.form-group {
+.form-inline {
     display: inline-block;
-    margin: 5% ;
+    margin: 0 auto;
+}
+
+form {
+    margin-left: 10%
 }
 
 .copyrights {
-        margin: 5% 0;
+    margin: 7px auto;
 }
