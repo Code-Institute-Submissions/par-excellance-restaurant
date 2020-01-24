@@ -260,6 +260,7 @@ strong {
     font-style: italic;
     text-align: center;
     max-width: 280px;
+    /* change to 270 */
     margin: 5% auto;
 }
 
@@ -371,7 +372,8 @@ i:hover {
 }
 
 footer form {
-    margin-top: 15px;
+    margin: 15px auto;
+    width: fit-content;
 }
 
 input[type="email"] {
@@ -381,11 +383,7 @@ input[type="email"] {
     border: none;
     margin-bottom: 4px;
     width: 240px;
-}
-
-.div-input {
     display: inline-block;
-    width: fit-content;
 }
 
 /* styling footer cta */
@@ -398,6 +396,7 @@ input[type="email"] {
     border: 1px solid #ffffff;
     color: #ffffff;
     height: 35px;
+    margin-left: 5px;
 
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -412,7 +411,7 @@ input[type="email"] {
 
 footer p {
     color: #ffffff;
-    margin: 0;
+    margin-bottom: 10px;
     width: fit-content;
 }
 
