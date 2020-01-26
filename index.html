@@ -264,17 +264,66 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <h5 class="modal-h3-text">Book a Table</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <form>
+
+            <!-- name and surname -->
+            <div class="form-group">
+                <label for="exampleFormControlInput1">Who is the reservation for</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter your full name">
+            </div>
+
+            <!-- email -->
+            <div class="form-group">
+                <label for="exampleFormControlInput1">Your email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Enter your email">
+            </div>
+
+            <!-- date -->
+            <div class="form-group">
+                <label for="exampleFormControlInput1">When would you like to visit us</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter the date">
+            </div>
+
+            <!-- lunch or dinner -->
+            <div class="form-group">
+                <!-- ??? -->
+                <p>Would you like to have lunch or dinner</p>
+                <!-- ??? -->
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                    <label class="form-check-label" for="inlineRadio1">Lunch (until 4.30pm)</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                    <label class="form-check-label" for="inlineRadio2">Dinner (after 4.30pm)</label>
+                </div>
+            </div>
+
+            <!-- how many people -->
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">How many people is the reservation for</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <option>2 persons</option>
+                <option>3 persons</option>
+                <option>4 persons</option>
+                <option>5 people</option>
+                </select>
+            </div>
+
+            <!-- any comments about allergies etc -->
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Please let us know about your allergies and intolerances in advance if you would like us to tailor the dishes to your needs</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+
+            <button type="submit" class="cta-black">Send</button>
+        </form>
       </div>
     </div>
   </div>

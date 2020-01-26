@@ -5,7 +5,7 @@ body {
   color: #333333;
 }
 
-h3, h2 {
+h3, h2, h5 {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
@@ -21,6 +21,9 @@ h2 {
     }
 }
 
+h5 {
+    font-size: 16px;
+}
 
 
 /* --------------------------------------------------------------------------- Navbar */
@@ -420,3 +423,28 @@ footer p {
     font-size: 13px;
     width: fit-content;
 }
+
+/* --------------------------------------------------------------------------- Footer */
+
+/* --------------------------------------------------------------------------- Modal */
+
+.modal-dialog {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
+    background-color: #FFFFFF;
+    font-weight: 300;
+}
+
+.form-group {
+    margin: 5% auto;
+}
+
+.modal-dialog label {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.modal-dialog input, .form-check-label {
+    font-size: 13px;
+    font-weight: 300;
+    color: #495057;
+}
+
