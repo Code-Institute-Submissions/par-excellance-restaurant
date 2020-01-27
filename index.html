@@ -36,10 +36,10 @@
       <!-- <li class="nav-item active"> -->
       <!-- <div class="nav-list"> -->
         <li class="nav-item">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="#about">About</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="assets/par_excellance_menu.pdf" target="_blank">Menu</a>
@@ -70,7 +70,11 @@
 <!-- About -->
 <section class="section-about">
 
-    <div class="div-about">
+    <div class="decoration">
+        <img src="assets/images/img-decoration.png" alt="Decorative page element" id="about">
+    </div>
+
+    <div class="div-about container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="div-about-text-1">
@@ -105,7 +109,7 @@
         </div>
     </div>
 
-    <div class="div-about">
+    <div class="div-about-menu">
         <div class="row">
             <div class="col-lg-6">
                 <img src="assets/images/img-about-menu.jpg" class="div-about-img" alt="Vegan Gluten-free Raspberry Tart">
@@ -132,6 +136,11 @@
 
 <!-- Reviews -->
 <section class="section-reviews">
+
+    <div class="decoration">
+        <img src="assets/images/img-decoration.png" alt="Decorative page element">
+    </div>
+
     <div class="div-reviews container">
         <h2 class="reviews-h2-text">What Our Customers Say:</h2>
         <div class="row">
@@ -182,6 +191,11 @@
 
 <!-- Restaurant details -->
 <section class="section-restaurant-details">
+
+    <div class="decoration">
+        <img src="assets/images/img-decoration.png" alt="Decorative page element">
+    </div>
+
     <div class="container-fluid">
         <div class="container">
             <div class="row">
@@ -274,51 +288,49 @@
 
             <!-- name and surname -->
             <div class="form-group">
-                <label for="exampleFormControlInput1">Who is the reservation for</label>
-                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter your full name">
+                <label for="exampleFormControlInput1">Who is the reservation for?*</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter your full name" required>
             </div>
 
             <!-- email -->
             <div class="form-group">
-                <label for="exampleFormControlInput1">Your email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Enter your email">
+                <label for="exampleFormControlInput2">Your email address?*</label>
+                <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="Enter your email" required>
             </div>
 
             <!-- date -->
             <div class="form-group">
-                <label for="exampleFormControlInput1">When would you like to visit us</label>
-                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter the date">
+                <label for="exampleFormControlInput3">When would you like to visit us?*</label>
+                <input type="text" class="form-control" id="exampleFormControlInput3" placeholder="Enter the date" required>
             </div>
 
             <!-- lunch or dinner -->
             <div class="form-group">
-                <!-- ??? -->
-                <p>Would you like to have lunch or dinner</p>
-                <!-- ??? -->
+                <legend>Would you like to have lunch or dinner?*</legend>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" required>
                     <label class="form-check-label" for="inlineRadio1">Lunch (until 4.30pm)</label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" required>
                     <label class="form-check-label" for="inlineRadio2">Dinner (after 4.30pm)</label>
                 </div>
             </div>
 
             <!-- how many people -->
-            <div class="form-group">
-                <label for="exampleFormControlSelect1">How many people is the reservation for</label>
-                <select class="form-control" id="exampleFormControlSelect1">
+            <!-- <div class="form-group">
+                <label for="exampleFormControlSelect1">How many people is the reservation for?*</label>
+                <select class="form-control" id="exampleFormControlSelect1" required>
                 <option>2 persons</option>
                 <option>3 persons</option>
                 <option>4 persons</option>
                 <option>5 people</option>
                 </select>
-            </div>
+            </div> -->
 
             <!-- any comments about allergies etc -->
             <div class="form-group">
-                <label for="exampleFormControlTextarea1">Please let us know about your allergies and intolerances in advance if you would like us to tailor the dishes to your needs</label>
+                <label for="exampleFormControlTextarea1">Please let us know about your allergies and intolerances in advance if you would like us to tailor the dishes to your needs.</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
             </div>
 
