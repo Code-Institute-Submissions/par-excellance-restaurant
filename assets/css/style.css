@@ -114,13 +114,13 @@ h5 {
     background-color: #000000;
     border: 1px solid #ffffff;
 
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
 }
 
 #cta-nav:hover {
-    background-color: #E5E5E5;
+    background-color: #ffffff;
     border: 1px solid #000000;
     color: #000000;
 }
@@ -177,13 +177,13 @@ header {
     display: block;
     margin: 10px auto;
     
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
 }
 
 .cta-black:hover{
-    background-color: #E5E5E5;
+    background-color: #ffffff;
     border: 1px solid #000000;
     color: #000000;
     text-decoration: none;
@@ -325,8 +325,7 @@ strong {
 .quote {
     font-style: italic;
     text-align: center;
-    max-width: 280px;
-    /* change to 270 */
+    max-width: 270px;
     margin: 5% auto;
 }
 
@@ -339,7 +338,6 @@ strong {
     max-width: 125px;
     max-height: 125px;
     margin: 10% 0 10% 33%;
-    /* why margin: 10% auto doesnt work? */
 }
 
 .review hr {
@@ -431,15 +429,22 @@ i {
     text-align: center;
     margin: 0 15px;
     padding-top: 5px;
+    border: 1px solid transparent;
 
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
 }
 
 i:hover {
-    color: #555555;
+    color: #ffffff;
     text-decoration: none;
+    background-color: black;
+    border: 1px solid #FFFFFF;
+}
+
+.social-icons a {
+    color: transparent;
 }
 
 footer form {
@@ -469,13 +474,13 @@ input[type="email"] {
     height: 35px;
     margin-left: 5px;
 
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
 }
 
 #cta-footer:hover {
-    background-color: #E5E5E5;
+    background-color: #ffffff;
     border: 1px solid #000000;
     color: #000000;
 }
