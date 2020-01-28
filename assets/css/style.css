@@ -28,7 +28,25 @@ h5 {
 }
 
 .decoration {
-    margin-top: 2.5%;
+    margin: 2.5% 0;
+}
+
+@media (max-width: 992px) {
+    .decoration {
+        margin: 10% 0;
+    }
+}
+
+@media (max-width: 610px) {
+    .decoration {
+        margin: 15% 0;
+    }
+}
+
+@media (max-width: 390px) {
+    .decoration {
+        margin: 20% 0;
+    }
 }
 
 .decoration img {
@@ -123,9 +141,10 @@ h5 {
 
 header {
     background: url('../images/img-header.jpg') no-repeat center center;
-    height: 90vh;
+    height: 85vh;
     background-size: cover;
 }
+
 
 .header-text {
     margin-top: 30vh;
@@ -200,7 +219,7 @@ header .cta-black {
 /* --------------------------------------------------------------------------- About */
 
 .div-about, .div-about-menu {
-    margin: 5% 5% 0 5%;
+    margin-top: 5%
 }
 
 .div-about-text-1 {
@@ -217,7 +236,7 @@ strong {
     display: block;
     margin: 0 auto;
     width: 100%;
-    max-width: 500px;
+    max-width: 550px;
     box-shadow: 2px 2px 13px rgba(0, 0, 0, 0.12);
 }
 
@@ -241,9 +260,12 @@ strong {
     max-width: 550px;
 }
 
+.section-menu {
+    background-color: #fafafa;  
+}
+
 .div-about-menu {
-    background-color: #fafafa;
-    padding: 35px 0;
+    padding: 40px 0;
 } 
 
 .div-about-text-2 .cta-black {
@@ -251,35 +273,43 @@ strong {
     margin-bottom: 0;
 }
 
-.section-about p {
+.section-about p, .section-menu p {
     margin-top: 3%;
 }
-
-/* 
 
 @media (max-width: 992px) {
     .div-about-text-1 {
         text-align: left;
     }
+
     .div-about-img {
         margin: 5% auto;
     }
-}
 
-*/
+    .dish-label-icon {
+    margin-left: 0;
+    margin-right: 3%;
+    }
+}
 
 /* --------------------------------------------------------------------------- About */
 
 
 /* --------------------------------------------------------------------------- Reviews */
 
+.div-reviews {
+    margin-top: 5%;
+}
 .reviews-h2-text {
-    margin-top: 8%;
     text-align: center;
 }
 
+.reviews {
+    margin: 5% auto 0 auto;
+}
+
 .review {
-    margin: 20% auto;
+    margin: 0 auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
     max-width: 350px;
     min-height: 380px;
@@ -323,13 +353,14 @@ strong {
 
 /* --------------------------------------------------------------------------- Restaurant details */
 
-.section-restaurant-details .container-fluid {
+.div-restaurant-details {
     background: url('../images/img-restaurant-details.jpg') no-repeat center center;
     background-size: cover;
     min-height: 600px;
+    margin-top: 5%;
 }
 
-.div-restaurant-details {
+.div-restaurant-contact {
     max-width: 410px;
     min-height: 475px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
