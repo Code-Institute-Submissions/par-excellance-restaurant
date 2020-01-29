@@ -121,6 +121,7 @@ h5 {
     margin: 8px;
     background-color: #000000;
     border: 1px solid #ffffff;
+    outline:none;
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -184,6 +185,7 @@ header {
     color: #ffffff;
     display: block;
     margin: 10px auto;
+    outline:none;
     
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -481,6 +483,7 @@ input[type="email"] {
     color: #ffffff;
     height: 35px;
     margin-left: 5px;
+    outline:none;
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
