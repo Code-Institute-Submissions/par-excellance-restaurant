@@ -31,6 +31,12 @@ h5 {
     margin: 2.5% 0;
 }
 
+@media (min-width: 993px) {
+    .decoration {
+        margin: 7% 0;
+    }
+}
+
 @media (max-width: 992px) {
     .decoration {
         margin: 10% 0;
@@ -55,6 +61,8 @@ h5 {
     min-width: 200px;
     display: block;
     margin: auto;
+    /* svg colour by using CodePen converter */
+    filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(27deg) brightness(91%) contrast(89%);
 }
 
 /* --------------------------------------------------------------------------- Navbar */
