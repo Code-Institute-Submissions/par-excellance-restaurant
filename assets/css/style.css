@@ -485,6 +485,17 @@ input[type="email"] {
     color: #000000;
 }
 
+@media (max-width: 416px) {
+    input[type="email"] {
+        width: 100%;
+        margin-left: 5px;
+    }
+    #cta-footer {
+        width: 100%;
+        margin-top: 2%;
+    }
+}
+
 footer p {
     color: #ffffff;
     margin-bottom: 10px;
