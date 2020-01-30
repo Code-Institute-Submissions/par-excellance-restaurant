@@ -121,7 +121,7 @@ h5 {
     margin: 8px;
     background-color: #000000;
     border: 1px solid #ffffff;
-    outline:none;
+    /* outline:none; */
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -185,12 +185,34 @@ header {
     color: #ffffff;
     display: block;
     margin: 10px auto;
-    outline:none;
+    /* outline: none; */
     
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
 }
+
+/* .cta-black:focus {
+    outline: none;
+} */
+
+.cta-black:focus,.cta-black:active:focus,.cta-black:focus,
+.cta-black.focus,.cta-black:active.focus,.cta-black.active.focus {
+    outline: none;
+}
+
+#cta-nav:focus,#cta-nav:active:focus,#cta-nav:focus,
+#cta-nav.focus,#cta-nav:active.focus,#cta-nav.active.focus {
+    outline: none;
+}
+
+.close:focus,.close:active:focus,.close:focus,
+.close.focus,.close:active.focus,.close.active.focus {
+    outline: none;
+}
+
+/* https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x */
+
 
 .cta-black:hover{
     background-color: #ffffff;
@@ -483,7 +505,7 @@ input[type="email"] {
     color: #ffffff;
     height: 35px;
     margin-left: 5px;
-    outline:none;
+    /* outline:none; */
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
