@@ -297,7 +297,7 @@ strong {
 }
 
 .div-about-menu {
-    padding: 40px 0;
+    padding: 5% 0;
 } 
 
 .div-about-text-2 .cta-black {
@@ -395,7 +395,29 @@ strong {
     min-height: 475px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
     background-color: #FFFFFF;
-    margin-top: 5%;
+    margin: 8% 0;
+    padding: 1% 0;
+}
+
+@media (max-width: 768px) {
+    .div-restaurant-contact {
+        margin: 11.5% auto;
+        padding: 3% 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .div-restaurant-contact {
+        margin: 15%% auto;
+        padding: 6% 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .div-restaurant-contact {
+        margin: 22%% auto;
+        padding: 10% 0;
+    }
 }
 
 .opening-hours-h2-text, .contact-h2-text {
