@@ -61,8 +61,13 @@ h5 {
     min-width: 200px;
     display: block;
     margin: auto;
-    /* svg colour by using CodePen converter */
+    /* svg colour by using CodePen converter at https://codepen.io/sosuke/pen/Pjoqqp */
     filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(27deg) brightness(91%) contrast(89%);
+}
+
+.navbar-toggler img {
+    width: 30px;
+    height: 30px;
 }
 
 /* --------------------------------------------------------------------------- Navbar */
@@ -196,6 +201,11 @@ header {
 /* .cta-black:focus {
     outline: none;
 } */
+
+.navbar-toggler:focus,.navbar-toggler:active:focus,.navbar-toggler:focus,
+.navbar-toggler.focus,.navbar-toggler:active.focus,.navbar-toggler.active.focus {
+    outline: none;
+}
 
 .cta-black:focus,.cta-black:active:focus,.cta-black:focus,
 .cta-black.focus,.cta-black:active.focus,.cta-black.active.focus {
