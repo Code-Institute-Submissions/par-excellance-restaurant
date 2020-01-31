@@ -149,9 +149,10 @@ h5 {
 /* --------------------------------------------------------------------------- Header */
 
 header {
-    background: url('../images/img-header.jpg') no-repeat center center;
-    height: 85vh;
+    background: url('../images/img-header.jpg') no-repeat center fixed;
+    height: 100vh;
     background-size: cover;
+/*  https://www.w3schools.com/howto/howto_css_parallax.asp parallax effect */
 }
 
 
@@ -408,14 +409,14 @@ strong {
 
 @media (max-width: 425px) {
     .div-restaurant-contact {
-        margin: 15%% auto;
+        margin: 15% auto;
         padding: 6% 0;
     }
 }
 
 @media (max-width: 320px) {
     .div-restaurant-contact {
-        margin: 22%% auto;
+        margin: 22% auto;
         padding: 10% 0;
     }
 }
