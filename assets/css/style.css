@@ -160,9 +160,17 @@ header {
 /*  https://www.w3schools.com/howto/howto_css_parallax.asp parallax effect */
 }
 
+@media (max-width: 991px) {
+    header {
+        background: url('../images/img-header.jpg') no-repeat center center;
+        height: 100vh;
+        background-size: cover;
+    /*  https://mediag.com/blog/popular-screen-resolutions-designing-for-all/ info about large tablet sizes */
+    }
+}
 
 .header-text {
-    margin-top: 30vh;
+    margin-top: 40vh;
     background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.7) 21.41%, rgba(255, 255, 255, 0.7) 78.6%, rgba(255, 255, 255, 0) 100%);
     max-width: 600px;
     margin-left: auto;
@@ -198,44 +206,24 @@ header {
     -webkit-transition: all .3s ease-in-out;
 }
 
-/* .cta-black:focus {
-    outline: none;
-} */
-
-.navbar-toggler:focus,.navbar-toggler:active:focus,.navbar-toggler:focus,
-.navbar-toggler.focus,.navbar-toggler:active.focus,.navbar-toggler.active.focus {
-    outline: none;
-}
-
-.cta-black:focus,.cta-black:active:focus,.cta-black:focus,
-.cta-black.focus,.cta-black:active.focus,.cta-black.active.focus {
-    outline: none;
-}
-
-#cta-nav:focus,#cta-nav:active:focus,#cta-nav:focus,
-#cta-nav.focus,#cta-nav:active.focus,#cta-nav.active.focus {
-    outline: none;
-}
-
-.close:focus,.close:active:focus,.close:focus,
-.close.focus,.close:active.focus,.close.active.focus {
-    outline: none;
-}
-
-/* https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x */
-
-
 .cta-black:hover{
     background-color: #ffffff;
     border: 1px solid #000000;
     color: #000000;
     text-decoration: none;
-
 }
 
 header .cta-black {
     margin-bottom: 5%;
     margin-top: 3%;
+}
+
+/* Fixing outline for the links (https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x) */
+.navbar-toggler:focus,.navbar-toggler:active:focus,.navbar-toggler:focus,
+.cta-black:focus,.cta-black:active:focus,.cta-black:focus,
+#cta-nav:focus,#cta-nav:active:focus,#cta-nav:focus,
+.close:focus,.close:active:focus,.close:focus {
+    outline: none;
 }
 
 @media (max-width: 415px) {
