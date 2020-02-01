@@ -72,7 +72,6 @@ h5 {
 
 /* --------------------------------------------------------------------------- Navbar */
 
-/* styling the brand logo */
 .navbar-brand {
     font-family: "Kristi", cursive;
     font-size: 40px;
@@ -88,28 +87,17 @@ h5 {
     color: #ffffff;
 }
 
-/* changing navbar to black */
 .navbar {
     background-color: #000000;
-    /* height: 55px; */
+    padding: 0.3rem 1rem;
 }
 
-/* @media (max-width: 768px) {
-    .navbar {
-        height: 70px;
-    }
-    .nav-list {
-        background-color: black;
-    }
-} */
-
-/* styling navbar links */
 .navbar-light .navbar-nav .nav-link {
     color: #ffffff;
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    padding: 18px;
+    padding: 18px 15px;
 }
 
 /*  ? didnt know how to remove the bootstrap hover effect */
@@ -117,7 +105,6 @@ h5 {
     color: #ffffff;
 }
 
-/* styling nav cta */
 #cta-nav {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
@@ -126,7 +113,6 @@ h5 {
     margin: 8px;
     background-color: #000000;
     border: 1px solid #ffffff;
-    /* outline:none; */
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -139,7 +125,7 @@ h5 {
     color: #000000;
 }
 
-/* changing the burger menu to something closer to brand */
+/* (burger menu) */
 .navbar-light .navbar-toggler {
     border: none;
 }
