@@ -61,9 +61,9 @@ h5 {
 }
 
 .decoration img {
-    width: 35%;
+    width: 15%;
     max-width: 270px;
-    min-width: 200px;
+    min-width: 150px;
     display: block;
     margin: auto;
     /* svg colour by using CodePen converter at https://codepen.io/sosuke/pen/Pjoqqp */
