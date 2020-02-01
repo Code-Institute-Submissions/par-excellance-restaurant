@@ -65,11 +65,6 @@ h5 {
     filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(27deg) brightness(91%) contrast(89%);
 }
 
-.navbar-toggler img {
-    width: 30px;
-    height: 30px;
-}
-
 /* --------------------------------------------------------------------------- Navbar */
 
 /* styling the brand logo */
@@ -141,13 +136,13 @@ h5 {
 
 /* changing the burger menu to something closer to brand */
 .navbar-light .navbar-toggler {
-    border-color: #ffffff;
-    border-radius: 0px;
+    border: none;
 }
 
-
-
-
+.navbar-toggler img {
+    width: 45px;
+    height: 45px;
+}
 
 /* --------------------------------------------------------------------------- Navbar */
 
