@@ -419,6 +419,16 @@ strong {
     }
 }
 
+.div-contact a {
+    color: #333333;
+    text-decoration: underline;
+}
+
+.div-contact a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+
 .opening-hours-h2-text, .contact-h2-text {
     margin-top: 8%;
     /* font-size: 30px; */
