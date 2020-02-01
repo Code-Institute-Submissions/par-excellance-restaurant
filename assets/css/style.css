@@ -5,6 +5,11 @@ body {
   color: #333333;
 }
 
+/* https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
+html {
+  scroll-behavior: smooth;
+}
+
 h3,
 h2,
 h5 {
