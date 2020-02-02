@@ -1,17 +1,29 @@
-# Par Excellance - Alergen-free Fine Dining Restaurant
+# Par Excellance - Allergen-free Fine Dining Restaurant
 
-One or two paragraphs providing an overview of your project.
+Code Institute - Milestone Project 1
 
-Essentially, this part is your sales pitch.
+This project is a one-page website for an allergen-free fine dining restaurant in London. The purpose of this website is to put emphasis on the uniqueness of the restaurant's concept on the market - while making sure the website is as informative and as functional as possible to the potential customers visiting the page.
+ 
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe environment for people dealing with autoimmune disorders, allergies and food intolerances. Today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
+A restaurant of such type requires a website covering user stories from two sides - the owner's perspective (business goals) and user's perspective (customer goals).
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+### Business goals
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+* As a restaurant owner, I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
+* As a restaurant owner, I want customers to book tables online so that my service staff saves time and efforts answering phone calls
+* As a restaurant owner, I want customers to get updates about my restaurant so that they stay informed about the latest news and events
+
+### Customer goals
+* As a customer, I want to read the menu so that I can see if the food fits my diet and lifestyle
+* As a customer, I want to know the prices so that I can see if the restaurant's offer fits my budget
+* As a customer, I want to see ratings and reviews of the restaurant so that I can see what other customers think about the restaurant
+* As a customer, I want to book a table online so that I can save time by not calling the restaurant or going there in person
+* As a customer, I want to contact the restaurant easily so that I can ask if I have additional questions or give my feedback
+* As a customer, I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
+
 
 ## Features
 
