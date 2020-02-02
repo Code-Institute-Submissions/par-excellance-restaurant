@@ -3,42 +3,57 @@
 Code Institute - Milestone Project 1
 
 This project is a one-page website for an allergen-free fine dining restaurant in London. The purpose of this website is to put emphasis on the uniqueness of the restaurant's concept on the market - while making sure the website is as informative and as functional as possible to the potential customers visiting the page.
- 
- 
+
+[Showcase img]
+
 ## UX
  
 With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe environment for people dealing with autoimmune disorders, allergies and food intolerances. Today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
 A restaurant of such type requires a website covering user stories from two sides - the owner's perspective (business goals) and user's perspective (customer goals).
 
+[wireframe images]
+
 ### Business goals
 
 * As a restaurant owner, I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
-* As a restaurant owner, I want customers to book tables online so that my service staff saves time and efforts answering phone calls
+* As a restaurant owner, I want customers to make online reservations so that my service staff saves time and efforts answering phone calls
 * As a restaurant owner, I want customers to get updates about my restaurant so that they stay informed about the latest news and events
 
 ### Customer goals
 * As a customer, I want to read the menu so that I can see if the food fits my diet and lifestyle
 * As a customer, I want to know the prices so that I can see if the restaurant's offer fits my budget
 * As a customer, I want to see ratings and reviews of the restaurant so that I can see what other customers think about the restaurant
-* As a customer, I want to book a table online so that I can save time by not calling the restaurant or going there in person
+* As a customer, I want to make online reservations so that I can save time by not calling the restaurant or going there in person
 * As a customer, I want to contact the restaurant easily so that I can ask if I have additional questions or give my feedback
 * As a customer, I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
 
 
-## Features
+## Features and page sections
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+### Sections
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+1. Top navigation bar - fixed for the users to always be able to navigate themselves
+2. Header - as an introduction to the website. Image indicating it's eating related, logotype indicating it's an elegant place, cta to book a table indicating it's eating out, not ordering for example
+3. About section - explaning the concept and the offer of the restaurant
+4. Menu section - giving the user more information about the quality and ingredients used in the restaurant with an option to download the menu as a PDF to learn more about the offer and prices before the visit
+5. Review section - positive feedbacks from previous customers to encourage the visit and set expectations
+6. Restaurant details section - provides relevant contact details and information about opening hours
+7. Footer - gives user the option to stay up to date with the restaurants news and events by subscribing to newsletter and linking to social media profiles
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Features
+
+1. Booking a table online - a form that allows customers to make online reservations
+2. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices
+3. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant
+4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map to avoid additional steps in contacting the restaurant
+
+allows users X to achieve Y, by having them fill out Z
 
 ### Features Left to Implement
-- Another feature idea
+* collapse burger menu after clicking on a link
+* 
+
+
 
 ## Technologies Used
 
