@@ -127,14 +127,30 @@ In particular, you should provide all details of the differences between the dep
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 
+
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+* Textual content for this website is completely original, written by me
 
 ### Media
-- The photos used in this site were obtained from ...
+
+* The photos on the website are taken from [Unsplash](https://unsplash.com/)
+* The icons are taken from [Font Awesome](https://fontawesome.com/) and [Feather](https://feathericons.com/)
+* Food label icons are made by [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) from [www.flaticon.com](https://www.flaticon.com/)
+* Burger menu icon and decorative svg image are designed by me
+
+### Inspiration sources
+
+* Berlin based restaurant [Lorenz Adlon](https://www.lorenzadlon-esszimmer.de/)
+* Berlin based restaurant [The Grand](https://www.the-grand-berlin.com/restaurant/)
+* Hamburg based restaurant [Jacobs Restaurant](https://jacobs-restaurant.de/)
+* London based restaurant [Galvin La Chapelle](https://galvinrestaurants.com/restaurant/galvin-la-chapelle-the-city-michelin-star/)
+
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+* I would like to thank my mentor [Guido Cecilio](https://github.com/guidocecilio) for all the valuable inputs and advices!
+* Thank you [CodeInstitute's](https://codeinstitute.net/) Slack community for being there for annoying little bug questions
+
