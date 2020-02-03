@@ -6,6 +6,8 @@ This project is a one-page website for an allergen-free fine dining restaurant i
 
 ![Website Showcase](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/%20img-showcase.png?raw=true)
 
+
+
 ## UX
  
 With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe dining environment for people dealing with autoimmune disorders, allergies and food intolerances.
@@ -16,14 +18,14 @@ A restaurant of such type requires a website covering user stories from two side
 
 The original project proposal to my mentor can be viewed [here.](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/MSTP_1_proposal-Valentina_Bedi.pdf)
 
-### Business goals
+### Business Goals
 
 As a restaurant owner...
 * I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
 * I want customers to make online reservations so that my service staff saves time and efforts answering phone calls
 * I want customers to get updates about my restaurant so that they stay informed about the latest news and events
 
-### Customer goals
+### Customer Goals
 
 As a customer...
 * I want to read the menu so that I can see if the food fits my diet and lifestyle
@@ -34,7 +36,8 @@ As a customer...
 * I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
 
 
-## Features and page sections
+
+## Features and Page Sections
 
 Based on the user stories, I've created brief overviews of the website information and features that should be provided in order to successfully reach both users' and website owner's goals.
 
@@ -65,8 +68,22 @@ When everything put together, we get a brief overview of MVP features for the fi
 4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (calling, visiting in person, etc.)
 
 ### Features Left to Implement
-* collapse burger menu after clicking on a link
-* 
+
+1. Booking through a calendar UI - instead of an online booking form in the current shape, the modal would look like a calendar which would give you date and time availability.
+Example taken from a German fine dining restaurant [Lorenz Adlon.](https://www.lorenzadlon-esszimmer.de/)
+
+![calendar feature]()
+
+2. Google maps frame - it would allow users to have information about the restaurant location at a glance.
+Example taken from a German fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
+
+![gmaps feature]()
+
+3. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
+
+Example taken from a German fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
+
+![gallery feature]()
 
 
 
