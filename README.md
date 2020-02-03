@@ -8,7 +8,7 @@ This project is a one-page website for an allergen-free fine dining restaurant i
 
 ## UX
  
-With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe environment for people dealing with autoimmune disorders, allergies and food intolerances.
+With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe dining environment for people dealing with autoimmune disorders, allergies and food intolerances.
 
 Thanks to the recent discoveries by functional medicine practinioners and researchers, today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
 
@@ -49,22 +49,20 @@ When everything put together, we get a brief overview of MVP features for the fi
 
 ### Sections
 
-1. Top navigation bar - fixed for the users to always be able to navigate themselves
-2. Header - as an introduction to the website. Image indicating it's eating related, logotype indicating it's an elegant place, cta to book a table indicating it's eating out, not ordering for example
-3. About section - explaning the concept and the offer of the restaurant
-4. Menu section - giving the user more information about the quality and ingredients used in the restaurant with an option to download the menu as a PDF to learn more about the offer and prices before the visit
-5. Review section - positive feedbacks from previous customers to encourage the visit and set expectations
-6. Restaurant details section - provides relevant contact details and information about opening hours
-7. Footer - gives user the option to stay up to date with the restaurants news and events by subscribing to newsletter and linking to social media profiles
+1. Top navigation bar - fixed on the top so that the users are able to navigate themselves anywhere they are on the page.
+2. Header - introduction to the website. Image indicates the product is eating related, logotype indicates it's an elegant place, CTA to book a table indicates it's about eating out and not ordering food, for example.
+3. About section - explains the concept and the offer of the restaurant.
+4. Menu section - gives the user more information about the quality and ingredients used in the restaurant with an option to download the menu as a PDF to learn more about the offer and prices before the visit.
+5. Review section - positive feedbacks from previous customers to encourage the visit and set expectations.
+6. Restaurant details section - provides relevant contact details and information about opening hours.
+7. Footer - gives users the option to stay up to date with the restaurants news and events by subscribing to the newsletter and linking to social media profiles.
 
 ### Features
 
-1. Booking a table online - a form that allows customers to make online reservations
-2. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices
-3. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant
-4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map to avoid additional steps in contacting the restaurant
-
-allows users X to achieve Y, by having them fill out Z
+1. Booking a table online - a form that allows customers to make online reservations while they are already online and on the page, i.e. this feature doesn't let time to come between the 'consideration' and 'decision' phase of the customer.
+2. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices.
+3. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant.
+4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (calling, visiting in person, etc.)
 
 ### Features Left to Implement
 * collapse burger menu after clicking on a link
