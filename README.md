@@ -4,31 +4,48 @@ Code Institute - Milestone Project 1
 
 This project is a one-page website for an allergen-free fine dining restaurant in London. The purpose of this website is to put emphasis on the uniqueness of the restaurant's concept on the market - while making sure the website is as informative and as functional as possible to the potential customers visiting the page.
 
-[Showcase img]
+![Website Showcase](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/%20img-showcase.png?raw=true)
 
 ## UX
  
-With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe environment for people dealing with autoimmune disorders, allergies and food intolerances. Today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
+With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe environment for people dealing with autoimmune disorders, allergies and food intolerances.
+
+Thanks to the recent discoveries by functional medicine practinioners and researchers, today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
+
 A restaurant of such type requires a website covering user stories from two sides - the owner's perspective (business goals) and user's perspective (customer goals).
 
-[wireframe images]
+The original project proposal to my mentor can be viewed [here.](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/MSTP_1_proposal-Valentina_Bedi.pdf)
 
 ### Business goals
 
-* As a restaurant owner, I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
-* As a restaurant owner, I want customers to make online reservations so that my service staff saves time and efforts answering phone calls
-* As a restaurant owner, I want customers to get updates about my restaurant so that they stay informed about the latest news and events
+As a restaurant owner...
+* I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
+* I want customers to make online reservations so that my service staff saves time and efforts answering phone calls
+* I want customers to get updates about my restaurant so that they stay informed about the latest news and events
 
 ### Customer goals
-* As a customer, I want to read the menu so that I can see if the food fits my diet and lifestyle
-* As a customer, I want to know the prices so that I can see if the restaurant's offer fits my budget
-* As a customer, I want to see ratings and reviews of the restaurant so that I can see what other customers think about the restaurant
-* As a customer, I want to make online reservations so that I can save time by not calling the restaurant or going there in person
-* As a customer, I want to contact the restaurant easily so that I can ask if I have additional questions or give my feedback
-* As a customer, I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
+
+As a customer...
+* I want to read the menu so that I can see if the food fits my diet and lifestyle
+* I want to know the prices so that I can see if the restaurant's offer fits my budget
+* I want to see ratings and reviews of the restaurant so that I can see what other customers think about the restaurant
+* I want to make online reservations so that I can save time by not calling the restaurant or going there in person
+* I want to contact the restaurant easily so that I can ask if I have additional questions or give my feedback
+* I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
 
 
 ## Features and page sections
+
+Based on the user stories, I've created brief overviews of the website information and features that should be provided in order to successfully reach both users' and website owner's goals.
+
+Some of the information and features overlap, while some are strictly customer or business related:
+
+![Goals Overview](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-goals-overview.png?raw=true)
+
+When everything put together, we get a brief overview of MVP features for the first round of implementation:
+
+![Information and Features Overview](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-information-features-overview.png?raw=true)
+
 
 ### Sections
 
