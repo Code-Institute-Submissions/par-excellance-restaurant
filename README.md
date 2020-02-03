@@ -70,20 +70,20 @@ When everything put together, we get a brief overview of MVP features for the fi
 ### Features Left to Implement
 
 1. Booking through a calendar UI - instead of an online booking form in the current shape, the modal would look like a calendar which would give you date and time availability.
-Example taken from a German fine dining restaurant [Lorenz Adlon.](https://www.lorenzadlon-esszimmer.de/)
+Example taken from a fine dining restaurant [Lorenz Adlon.](https://www.lorenzadlon-esszimmer.de/)
 
-![calendar feature]()
+![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-calendar.png?raw=true)
 
 2. Google maps frame - it would allow users to have information about the restaurant location at a glance.
-Example taken from a German fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
+Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
-![gmaps feature]()
+![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gmaps.png?raw=true)
 
 3. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
 
-Example taken from a German fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
+Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
-![gallery feature]()
+![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gallery.png?raw=true)
 
 
 
