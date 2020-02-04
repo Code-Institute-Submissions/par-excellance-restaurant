@@ -264,6 +264,7 @@
 
             <div class="col-lg-6">
                 <form action="#" onsubmit="return alert('It\'s only for demo purpose')">
+                    <!-- HIDE LABEL HERE? -->
                     <input type="email" class="form-control" id="newsletter" name="newsletter" placeholder="Enter email" required>
                     <button type="submit" id="cta-footer">Subscribe</button>
                 </form>
@@ -305,28 +306,28 @@
         <form action="#" onsubmit="return alert('It\'s only for demo purpose')">
             <!-- name and surname -->
             <div class="form-group">
-                <label for="question-1-fullname">Who is the reservation for?*</label>
-                <input type="text" class="form-control" id="question-1-fullname" name="fullname" placeholder="Enter your full name" required>
+                <label for="fullname">Who is the reservation for?*</label>
+                <input type="text" class="form-control" id="ullname" name="fullname" placeholder="Enter your full name" required>
             </div>
             <!-- email -->
             <div class="form-group">
-                <label for="question-2-email">Your email address?*</label>
-                <input type="email" class="form-control" id="question-2-email" name="email" placeholder="Enter your email" required>
+                <label for="email">Your email address?*</label>
+                <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
             </div>
             <!-- date -->
             <div class="form-group">
-                <label for="question-3-date-time">When would you like to visit us?*</label>
-                <input type="text" class="form-control" id="question-3-date-time" name="date-time" placeholder="Enter the date" required>
+                <label for="date-time">When would you like to visit us?*</label>
+                <input type="text" class="form-control" id="date-time" name="date-time" placeholder="Enter the date" required>
             </div>
             <!-- lunch or dinner -->
             <div class="form-group">
                 <legend>Would you like to have lunch or dinner?*</legend>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="question-4-lunch-dinner" id="lunch" value="lunch" required>
+                    <input class="form-check-input" type="radio" name="lunch-dinner" id="lunch" value="lunch" required>
                     <label class="form-check-label" for="lunch">Lunch (until 4.30pm)</label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="question-4-lunch-dinner" id="dinner" value="dinner" required>
+                    <input class="form-check-input" type="radio" name="lunch-dinner" id="dinner" value="dinner" required>
                     <label class="form-check-label" for="dinner">Dinner (after 4.30pm)</label>
                 </div>
             </div>
