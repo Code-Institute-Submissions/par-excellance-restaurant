@@ -122,23 +122,44 @@ Additionally I have also used the following platforms to help me shape the websi
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+...............PLACEHOLDER - BROWSER/DEVICE INFO ..............
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+### Testing the features
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+* Reservation form
+  1. Click on a "Book a table" CTA (in the navigation, header or contact section)
+  2. Submit the empty form to confirm the appearance of the error message for the required fields
+  3. Submit the form with an invalid email address to confirm the apprearance of the error message
+  4. Submit the form with the correct content in all required fields to confirm that the alert appears after the submission as a success message.
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+* Newsletter subscription
+  1. Go to the footer section of the page
+  2. Subscribe with empty content to confirm the appearance of the error message for the email input fields
+  3. Subscribe with an invalid email address to confirm the apprearance of the error message
+  4. Subscribe with a valid email address to confirm that the alert appears after the submission as a success message.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+* PDF menu
+  1. Go to the Menu section of the page or click on the "Menu" link in the navigation
+  2. Click on the "See our menu" CTA to confirm another tab opens with a PDF previewed in it.
+
+* Social media profiles' links
+  1. Go to the footer of the page
+  2. Click on each of the social media icons to confirm another tab opens with a link to the social media platform the icon represents.
+
+* Shortcuts behind contact details
+  1. Go to the Contact section of the page or click on the "Contact" link in the navigation
+  2. Click on the email adress in the Contact section to confirm email provider opens in another window which allows you to send emails to the address
+  3. Click on the phone number in the Contact section to confirm another window opens which allows you to call that number
+  4. Click on the address in the Contact section to confirm another tab opens with the location pinned to a Google Map.
+
+
+### Bugs and problems
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- mozilla - contact section design misplaced, footer not centered on responsive sizes
+- ie - svg in original colour, header text misplaced
+smooth scroll not working when clicked on links
+mob devices - when on contact section, menu is highlighted
 
 ## Deployment
 
