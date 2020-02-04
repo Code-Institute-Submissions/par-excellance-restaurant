@@ -96,7 +96,7 @@ Low-fidelity wireframes are available at the following links:
 
 ## Technologies Used
 
-### This project greatly focuses on the following technologies:
+This project greatly focuses on the following technologies:
 
 1. [HTML](https://en.wikipedia.org/wiki/HTML) - for creating the layout and the structure of the website
 2. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
@@ -106,13 +106,13 @@ Low-fidelity wireframes are available at the following links:
 6. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
 7. [Git](https://git-scm.com/) - for version control
 
-### Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for some components to function properly:
+Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for some components to function properly:
 
 1. [jQuery](https://jquery.com/)
 2. [Popper.js](https://popper.js.org/)
 3. [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
-### Additionally I have also used the following platforms to help me shape the website and the brand:
+Additionally I have also used the following platforms to help me shape the website and the brand:
 
 1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
 2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
