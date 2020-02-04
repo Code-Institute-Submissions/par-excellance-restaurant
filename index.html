@@ -264,7 +264,7 @@
 
             <div class="col-lg-6">
                 <form action="#" onsubmit="return alert('It\'s only for demo purpose')">
-                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                    <input type="email" class="form-control" id="newsletter" name="newsletter" placeholder="Enter email" required>
                     <button type="submit" id="cta-footer">Subscribe</button>
                 </form>
             </div>
@@ -290,7 +290,7 @@
 
 <!-- Modal -->
 
-<div class="modal fade" id="launch-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="launch-modal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
 
@@ -305,35 +305,35 @@
         <form action="#" onsubmit="return alert('It\'s only for demo purpose')">
             <!-- name and surname -->
             <div class="form-group">
-                <label for="exampleFormControlInput1">Who is the reservation for?*</label>
-                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter your full name" required>
+                <label for="question-1-fullname">Who is the reservation for?*</label>
+                <input type="text" class="form-control" id="question-1-fullname" name="fullname" placeholder="Enter your full name" required>
             </div>
             <!-- email -->
             <div class="form-group">
-                <label for="exampleFormControlInput2">Your email address?*</label>
-                <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="Enter your email" required>
+                <label for="question-2-email">Your email address?*</label>
+                <input type="email" class="form-control" id="question-2-email" name="email" placeholder="Enter your email" required>
             </div>
             <!-- date -->
             <div class="form-group">
-                <label for="exampleFormControlInput3">When would you like to visit us?*</label>
-                <input type="text" class="form-control" id="exampleFormControlInput3" placeholder="Enter the date" required>
+                <label for="question-3-date-time">When would you like to visit us?*</label>
+                <input type="text" class="form-control" id="question-3-date-time" name="date-time" placeholder="Enter the date" required>
             </div>
             <!-- lunch or dinner -->
             <div class="form-group">
                 <legend>Would you like to have lunch or dinner?*</legend>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" required>
-                    <label class="form-check-label" for="inlineRadio1">Lunch (until 4.30pm)</label>
+                    <input class="form-check-input" type="radio" name="lunch" id="question-4-lunch" value="option1" required>
+                    <label class="form-check-label" for="question-4-lunch">Lunch (until 4.30pm)</label>
                 </div>
                 <div class="form-check form-check-inline">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" required>
-                    <label class="form-check-label" for="inlineRadio2">Dinner (after 4.30pm)</label>
+                    <input class="form-check-input" type="radio" name="dinner" id="question-4-dinner" value="option2" required>
+                    <label class="form-check-label" for="question-4-dinner">Dinner (after 4.30pm)</label>
                 </div>
             </div>
             <!-- comments about allergies etc -->
             <div class="form-group">
-                <label for="exampleFormControlTextarea1">Please let us know about your allergies and intolerances in advance if you would like us to tailor the dishes to your needs.</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                <label for="comments">Please let us know about your allergies and intolerances in advance if you would like us to tailor the dishes to your needs.</label>
+                <textarea class="form-control" id="comments" name="comments" rows="3"></textarea>
             </div>
 
             <button type="submit" class="cta-black">Send</button>
