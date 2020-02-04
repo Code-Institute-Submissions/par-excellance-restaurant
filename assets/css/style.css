@@ -507,7 +507,7 @@ footer form {
     width: fit-content;
 }
 
-input[type="email"] {
+#newsletter {
     border-radius: 0px;
     max-width: 500px;
     height: 35px;
@@ -542,7 +542,7 @@ input[type="email"] {
 }
 
 @media (max-width: 416px) {
-    input[type="email"] {
+    #newsletter {
         width: 100%;
         margin-left: 5px;
     }
@@ -596,9 +596,3 @@ footer p {
 .modal-dialog .form-control {
     border-radius: 0px;
 }
-
-#exampleFormControlInput2 {
-    border: 1px solid #ced4da;
-    display: block;
-    width: 100%;
-}    
