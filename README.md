@@ -92,12 +92,12 @@ Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-
 This project greatly focuses on the following technologies:
 
 1. [HTML](https://en.wikipedia.org/wiki/HTML) - for creating the layout and the structure of the website
-2. [CSS]() - for styling the website’s HTML code
+2. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
 3. [Bootstrap](https://getbootstrap.com/) - for additional styling and adding responsiveness to the website
 4. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website
-5. [Gitpod]()
-6. [GitHub]()
-7. [Git]()
+5. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
+6. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
+7. [Git](https://git-scm.com/) - for version control
 
 Technology connected to [Bootstrap](https://getbootstrap.com/) for some components to function properly:
 
@@ -107,16 +107,10 @@ Technology connected to [Bootstrap](https://getbootstrap.com/) for some componen
 
 Additionally I have also used the following platforms to help me shape the website and the brand:
 
-1. [TinyPNG]() - for compressing the images so that the website can load faster
-2. [Google Fonts]() - for selecting the fonts and implementing them into the HTML code
-3. [Figma]() - for creating wireframes and designs
+1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
+2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
+3. [Figma](https://www.figma.com/) - for creating wireframes and designs
 
-
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
 
 
 ## Testing
