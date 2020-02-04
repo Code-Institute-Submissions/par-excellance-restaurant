@@ -80,10 +80,17 @@ Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-
 ![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gmaps.png?raw=true)
 
 3. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
-
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gallery.png?raw=true)
+
+### Wireframes
+
+Low-fidelity wireframes are available at the following links:
+
+* [Desktop wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-desktop.png)
+* [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-tablet.png)
+* [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-mobile.png)
 
 
 
