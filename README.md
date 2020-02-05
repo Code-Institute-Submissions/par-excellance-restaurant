@@ -185,11 +185,9 @@ To create a local copy of a repository, follow these steps:
 1. Go to the repository page
 2. Click on the "Clone or download" button in the top of the page
 3. Click the check list icon on the right of the newly opened window to clone the repository using HTTPS
-4. Click "Use SSH" link in the top right corner of the newly opened window to clone the repository using an SSH key
-5. Open Terminal
-6. Change the current working directory to the location where you want the cloned directory to be made
-7. Type "git clone" and paste the URL you copied in the previous steps
-8. Press Enter to create your local clone
+4. Open Terminal
+5. Change the current working directory to the location where you want the cloned directory to be made
+6. Type "git clone" and paste the URL you copied in step 3 and run the command
 
 For more information please visit [here.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
