@@ -141,6 +141,14 @@ h5 {
     color: #FFFFFF; 
 }
 
+@media (max-width: 992px) {
+    .navbar-light .navbar-nav .nav-link.active {
+        border-bottom: 1px solid #FFFFFF;
+        color: #FFFFFF;
+        width: fit-content;
+    }
+}
+
 /* --------------------------------------------------------------------------- Navbar */
 
 /* --------------------------------------------------------------------------- Header */
@@ -417,7 +425,7 @@ strong {
 }
 
 .div-contact a:hover {
-    color: gray;
+    color: #808080;
     text-decoration: underline;
 }
 
