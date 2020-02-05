@@ -117,6 +117,7 @@ Additionally I have also used the following platforms to help me shape the websi
 1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
 2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
 3. [Figma](https://www.figma.com/) - for creating wireframes and designs
+4. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for changing colours of svg images
 
 
 
