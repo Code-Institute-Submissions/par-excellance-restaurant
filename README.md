@@ -161,16 +161,37 @@ You should also mention in this section any interesting bugs or problems you dis
 smooth scroll not working when clicked on links
 mob devices - when on contact section, menu is highlighted
 
+
+
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### GitHub Pages
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+To deploy a website on GitHub Pages, follow these steps:
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+1. Go to the repository page
+2. Click on settings icon in the top of the page
+3. Find "GitHub Pages" section
+4. Click on the "Source" dropdown menu
+5. Select "master branch" option
+6. A green success message should appear in the "GitHub Pages" section with the link to the live preview of the project.
+
+For more information please visit [here.](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+### Local Deployment
+
+To create a local copy of a repository, follow these steps:
+
+1. Go to the repository page
+2. Click on the "Clone or download" button in the top of the page
+3. Click the check list icon on the right of the newly opened window to clone the repository using HTTPS
+4. Click "Use SSH" link in the top right corner of the newly opened window to clone the repository using an SSH key
+5. Open Terminal
+6. Change the current working directory to the location where you want the cloned directory to be made
+7. Type "git clone" and paste the URL you copied in the previous steps
+8. Press Enter to create your local clone
+
+For more information please visit [here.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
 
