@@ -112,12 +112,12 @@ Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for 
 2. [Popper.js](https://popper.js.org/)
 3. [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
-Additionally I have also used the following platforms to help me shape the website and the brand:
+Additionally, I have also used the following platforms to help me shape the website and the brand:
 
 1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
 2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
 3. [Figma](https://www.figma.com/) - for creating wireframes and designs
-4. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for changing colours of svg images
+4. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for calculating colours of svg images
 
 
 
