@@ -88,9 +88,9 @@ Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-
 
 Low-fidelity wireframes are available at the following links:
 
-* [Desktop wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-desktop.png)
-* [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-tablet.png)
-* [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/images_readme/img-wireframe-mobile.png)
+* [Desktop wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/wireframes_readme/img-wireframe-desktop.png)
+* [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/wireframes_readme/img-wireframe-tablet.png)
+* [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/wireframes_readme/img-wireframe-mobile.png)
 
 
 
