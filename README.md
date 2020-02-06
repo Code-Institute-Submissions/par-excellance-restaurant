@@ -100,11 +100,17 @@ The vision of Par Excellance is to become a synonym for elegance and classiness 
 
 ### Fonts
 
-Cursive fonts tend to be associated with elegance, luxury and high class. Fine dining restaurants 
+Cursive fonts tend to be associated with elegance, luxury and high class. Brand in a handwritten font gives an impression there is someone behind it - as if someone would write it. It feels personal and as if there is a person inviting the customers to the restaurant. Many fine dining restaurants I've come accross online were named after their chef de cuisine or had their name in French. I've decided to combine these elements and opted for a French expression Par Excellance ("better or more than all others of the same kind") as the restaurant's name, place a French chef as the owner of the restaurant and use a cursive font for the logo - font Kristi.
+
+As this is a modern concept of a restaurant, I decided to put the rest of the content in Montserrat, a semi-formal font, and Raleway, a font which is often recommended to be paired with Montserrat. I wanted to break the seriousness of the cursive logo and the luxury associated with it so that the brand feel more friendly and affordable.
 
 ### Colours
 
+Black and white colour combination is associated with clasiness as well. By choosing this combination, I wanted to support the logotype visually. My other reason for sticking to this rather limited colour pallette was that I wanted the accent to be on the food imagery. Website visitor's focus should go to the food, not getting distracted from it.
+
 ### Visual Style
+
+Besides colours, the visual style of the brand is shown through food imagery and style of the website's elements. As mentioned above, the 
 
 ### Content Style
 
