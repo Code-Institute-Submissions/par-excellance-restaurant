@@ -217,6 +217,10 @@ For more information please visit [here.](https://help.github.com/en/github/crea
 * Hamburg based restaurant [Jacobs Restaurant](https://jacobs-restaurant.de/)
 * London based restaurant [Galvin La Chapelle](https://galvinrestaurants.com/restaurant/galvin-la-chapelle-the-city-michelin-star/)
 
+### Coding sources
+
+* Helped me create and understand [Parallax effect](https://www.w3schools.com/howto/howto_css_parallax.asp)
+* Helped me understand [Outline behaviour](https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x)
 
 ### Acknowledgements
 
