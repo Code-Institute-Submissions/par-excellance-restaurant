@@ -1,3 +1,4 @@
+/* General */
 
 body {
   font-family: "Raleway", sans-serif;
@@ -5,14 +6,13 @@ body {
   color: #333333;
 }
 
-/* https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 html {
   scroll-behavior: smooth;
 }
 
-h3,
 h2,
-h5 {
+h3,
+h4 {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
@@ -28,7 +28,7 @@ h2 {
     }
 }
 
-h5 {
+h4 {
     font-size: 16px;
 }
 
@@ -66,11 +66,12 @@ h5 {
     min-width: 150px;
     display: block;
     margin: auto;
-    /* svg colour by using CodePen converter at https://codepen.io/sosuke/pen/Pjoqqp */
     filter: invert(65%) sepia(0%) saturate(29%) hue-rotate(141deg) brightness(96%) contrast(106%);
 }
 
-/* --------------------------------------------------------------------------- Navbar */
+/* General */
+
+/* Navbar */
 
 .navbar-brand {
     font-family: "Kristi", cursive;
@@ -82,7 +83,7 @@ h5 {
     color: #ffffff;
 }
 
-/*  ? didnt know how to remove the bootstrap hover effect from the navbar-brand*/
+/* to remove Bootstrap hover effect*/
 .navbar-light .navbar-brand:hover {
     color: #ffffff;
 }
@@ -101,7 +102,7 @@ h5 {
     padding: 0;
 }
 
-/*  ? didnt know how to remove the bootstrap hover effect */
+/* to remove Bootstrap hover effect */
 .navbar-light .navbar-nav .nav-link:hover {
     color: #ffffff;
 }
@@ -126,6 +127,19 @@ h5 {
     color: #000000;
 }
 
+.navbar-light .navbar-nav .nav-link.active {
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff; 
+}
+
+@media (max-width: 992px) {
+    .navbar-light .navbar-nav .nav-link.active {
+        border-bottom: 1px solid #ffffff;
+        color: #ffffff;
+        width: fit-content;
+    }
+}
+
 /* (burger menu) */
 .navbar-light .navbar-toggler {
     border: none;
@@ -136,28 +150,14 @@ h5 {
     height: 45px;
 }
 
-.navbar-light .navbar-nav .nav-link.active {
-    border-bottom: 1px solid #FFFFFF;
-    color: #FFFFFF; 
-}
+/* Navbar */
 
-@media (max-width: 992px) {
-    .navbar-light .navbar-nav .nav-link.active {
-        border-bottom: 1px solid #FFFFFF;
-        color: #FFFFFF;
-        width: fit-content;
-    }
-}
-
-/* --------------------------------------------------------------------------- Navbar */
-
-/* --------------------------------------------------------------------------- Header */
+/* Header */
 
 header {
     background: url('../images/img-header.jpg') no-repeat center fixed;
     height: 100vh;
     background-size: cover;
-/*  https://www.w3schools.com/howto/howto_css_parallax.asp parallax effect */
 }
 
 @media (max-width: 991px) {
@@ -165,7 +165,6 @@ header {
         background: url('../images/img-header.jpg') no-repeat center center;
         height: 100vh;
         background-size: cover;
-    /*  https://mediag.com/blog/popular-screen-resolutions-designing-for-all/ info about large tablet sizes */
     }
 }
 
@@ -199,7 +198,6 @@ header {
     color: #ffffff;
     display: block;
     margin: 10px auto;
-    /* outline: none; */
     
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -218,7 +216,6 @@ header .cta-black {
     margin-top: 3%;
 }
 
-/* Fixing outline for the links (https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x) */
 .navbar-toggler:focus,.navbar-toggler:active:focus,.navbar-toggler:focus,
 .cta-black:focus,.cta-black:active:focus,.cta-black:focus,
 #cta-nav:focus,#cta-nav:active:focus,#cta-nav:focus,
@@ -244,10 +241,9 @@ header .cta-black {
     }
 }
 
+/* Header */
 
-/* --------------------------------------------------------------------------- Header */
-
-/* --------------------------------------------------------------------------- About */
+/* About */
 
 .div-about, .div-about-menu {
     margin-top: 5%
@@ -323,10 +319,9 @@ strong {
     }
 }
 
-/* --------------------------------------------------------------------------- About */
+/* About */
 
-
-/* --------------------------------------------------------------------------- Reviews */
+/* Reviews */
 
 .div-reviews {
     margin-top: 5%;
@@ -376,11 +371,9 @@ strong {
     border: 0.5px solid #333333;
 }
 
+/* Reviews */
 
-/* --------------------------------------------------------------------------- Reviews */
-
-
-/* --------------------------------------------------------------------------- Restaurant details */
+/* Restaurant details */
 
 .div-restaurant-details {
     background: url('../images/img-restaurant-details.jpg') no-repeat center center;
@@ -393,7 +386,7 @@ strong {
     max-width: 410px;
     min-height: 475px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     margin: 8% 0;
     padding: 1% 0;
 }
@@ -464,10 +457,9 @@ pre {
     font-weight: 700;
 }
 
-/* --------------------------------------------------------------------------- Restaurant details */
+/* Restaurant details */
 
-
-/* --------------------------------------------------------------------------- Footer */
+/* Footer */
 
 footer {
     min-height: 85px;
@@ -503,7 +495,7 @@ i:hover {
     color: #ffffff;
     text-decoration: none;
     background-color: black;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #ffffff;
 }
 
 .social-icons a {
@@ -525,7 +517,6 @@ footer form {
     display: inline-block;
 }
 
-/* styling footer cta */
 #cta-footer {
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
@@ -536,7 +527,6 @@ footer form {
     color: #ffffff;
     height: 35px;
     margin-left: 5px;
-    /* outline:none; */
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -572,13 +562,13 @@ footer p {
     width: fit-content;
 }
 
-/* --------------------------------------------------------------------------- Footer */
+/* Footer */
 
-/* --------------------------------------------------------------------------- Modal */
+/* Modal */
 
 .modal-dialog {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.14);
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     font-weight: 300;
 }
 
@@ -604,3 +594,5 @@ footer p {
 .modal-dialog .form-control {
     border-radius: 0px;
 }
+
+/* Modal */
