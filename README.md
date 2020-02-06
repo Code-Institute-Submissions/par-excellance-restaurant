@@ -171,18 +171,16 @@ Mobile:
   3. Click on the phone number in the Contact section to confirm another window opens which allows you to call that number
   4. Click on the address in the Contact section to confirm another tab opens with the location pinned to a Google Map.
 
-
 ### Bugs and Problems
 
-For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code. The only thing left unchanged but marked by the HTML validator was the error comind from a copied line of code from Google Fonts:
-![Bug 1]()
+For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code. The only thing left unchanged but marked by the HTML validator was the error coming from a copied line of code from Google Fonts marking "|" as an illegal character. I've decided to keep it as it's not necessarily considered to be a bug.
 
+Other issues I've encountered:
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-- mozilla - contact section design misplaced, footer not centered on responsive sizes
-- ie - svg in original colour, header text misplaced
-smooth scroll not working when clicked on links
-mob devices - when on contact section, menu is highlighted
+* smooth scrolling (`html {scroll-behavior: smooth;}`) doesn't work in Internet Explorer and Safari
+* `filter` property used to change colours of SVG files doesn't work in Internet Explorer
+* navigation links in responsive forms are underlined across the width instead of fitting the content (`width: fit-content`) in Internet Explorer and Mozilla
+* footer is left-aligned instead of centered in responsive forms in Internet Explorer, Mozilla
 
 
 
@@ -245,4 +243,3 @@ For more information please visit [here.](https://help.github.com/en/github/crea
 
 * I would like to thank my mentor [Guido Cecilio](https://github.com/guidocecilio) for all the valuable inputs and advices!
 * Thank you [CodeInstitute's](https://codeinstitute.net/) Slack community for being there for annoying little bug questions
-
