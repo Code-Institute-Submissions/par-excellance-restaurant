@@ -101,7 +101,7 @@ This project greatly focuses on the following technologies:
 1. [HTML](https://en.wikipedia.org/wiki/HTML) - for creating the layout and the structure of the website
 2. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
 3. [Bootstrap](https://getbootstrap.com/) - for additional styling and adding responsiveness to the website
-4. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website
+4. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website and for [JS Scrollspy](https://www.w3schools.com/bootstrap/bootstrap_ref_js_scrollspy.asp)
 5. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
 6. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
 7. [Git](https://git-scm.com/) - for version control
@@ -124,6 +124,9 @@ Additionally, I have also used the following platforms to help me shape the webs
 ## Testing
 
 ...............PLACEHOLDER - BROWSER/DEVICE INFO ..............
+
+[W3 CSS validator](http://www.css-validator.org/)
+[W3 HTML validator](https://validator.w3.org/nu/)
 
 ### Testing the features
 
