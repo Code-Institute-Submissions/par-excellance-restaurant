@@ -94,6 +94,21 @@ Low-fidelity wireframes are available at the following links:
 
 
 
+## Graphic Design and Brand Elements
+
+The vision of Par Excellance is to become a synonym for elegance and classiness among the restaurants while at the same time it represents mindful eating. It's competitors are fine dining restaurants on the one hand and modern clean eating diners on the other hand. By analysing competitors I've decided to follow these principles to highlight the product and form the brand.
+
+### Fonts
+
+Cursive fonts tend to be associated with elegance, luxury and high class. Fine dining restaurants 
+
+### Colours
+
+### Visual Style
+
+### Content Style
+
+
 ## Technologies Used
 
 This project greatly focuses on the following technologies:
