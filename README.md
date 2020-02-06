@@ -123,12 +123,27 @@ Additionally, I have also used the following platforms to help me shape the webs
 
 ## Testing
 
-...............PLACEHOLDER - BROWSER/DEVICE INFO ..............
+The project's code was validated through [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/).
+Additionally, I've tested the website's preview on the devices and browsers listed below. More about the errors I've encountered can be find under the 'Bugs and Problems' title.
 
-[W3 CSS validator](http://www.css-validator.org/)
-[W3 HTML validator](https://validator.w3.org/nu/)
+Desktop:
+1. Acer
+  * Google Chrome
+  * Internet Explorer
+  * Mozilla
+2. MacBook
+  * Google Chrome
+  * Safari
+  * Opera
+  * Mozilla
 
-### Testing the features
+Mobile:
+1. iPhone 8
+  * Safari
+2. HTC
+  * Google Chrome
+
+### Testing the Features
 
 * Reservation form
   1. Click on a "Book a table" CTA (in the navigation, header or contact section)
@@ -157,7 +172,11 @@ Additionally, I have also used the following platforms to help me shape the webs
   4. Click on the address in the Contact section to confirm another tab opens with the location pinned to a Google Map.
 
 
-### Bugs and problems
+### Bugs and Problems
+
+For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code. The only thing left unchanged but marked by the HTML validator was the error comind from a copied line of code from Google Fonts:
+![Bug 1]()
+
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 - mozilla - contact section design misplaced, footer not centered on responsive sizes
@@ -210,14 +229,14 @@ For more information please visit [here.](https://help.github.com/en/github/crea
 * Food label icons are made by [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) from [www.flaticon.com](https://www.flaticon.com/)
 * Burger menu icon and decorative svg image are designed by me
 
-### Inspiration sources
+### Inspiration Sources
 
 * Berlin based restaurant [Lorenz Adlon](https://www.lorenzadlon-esszimmer.de/)
 * Berlin based restaurant [The Grand](https://www.the-grand-berlin.com/restaurant/)
 * Hamburg based restaurant [Jacobs Restaurant](https://jacobs-restaurant.de/)
 * London based restaurant [Galvin La Chapelle](https://galvinrestaurants.com/restaurant/galvin-la-chapelle-the-city-michelin-star/)
 
-### Coding sources
+### Coding Sources
 
 * Helped me create and understand [Parallax effect](https://www.w3schools.com/howto/howto_css_parallax.asp)
 * Helped me understand [Outline behaviour](https://stackoverflow.com/questions/21201080/bootstrap-button-remove-outline-on-chrome-os-x)
