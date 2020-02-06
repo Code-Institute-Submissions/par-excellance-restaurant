@@ -180,7 +180,7 @@ Other issues I've encountered:
 * smooth scrolling (`html {scroll-behavior: smooth;}`) doesn't work in Internet Explorer and Safari
 * `filter` property used to change colours of SVG files doesn't work in Internet Explorer
 * navigation links in responsive forms are underlined across the width instead of fitting the content (`width: fit-content`) in Internet Explorer and Mozilla
-* footer is left-aligned instead of centered in responsive forms in Internet Explorer, Mozilla
+* footer elements are left-aligned instead of being centered in responsive forms in Internet Explorer, Mozilla
 
 
 
