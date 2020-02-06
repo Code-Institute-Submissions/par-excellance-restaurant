@@ -194,7 +194,7 @@ Mobile:
 
 ### Bugs and Problems
 
-For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code. The only thing left unchanged but marked by the HTML validator was the error coming from a copied line of code from Google Fonts marking "|" as an illegal character. I've decided to keep it as it's not necessarily considered to be a bug.
+For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code.
 
 Other issues I've encountered:
 
