@@ -110,9 +110,12 @@ Black and white colour combination is associated with clasiness as well. By choo
 
 ### Visual Style
 
-Besides colours, the visual style of the brand is shown through food imagery and style of the website's elements. As mentioned above, the 
+Besides colours, the visual style of the brand is shown through imagery and style of the website's elements. The images on the website are limited in colours. The backgrounds are white or pale to help out warm colours (red and orange) stand out as accent colours. Warmth might be associated with warm, freshly-made meals.
 
-### Content Style
+The elements on the website have sharp edges and are rectangular or square in shape. The idea behind this decision is to be more traditional so the customer would associate the brand with professionality.
+
+The decoration image (the curved line) between the sections is there to break the sharpness of the site's elements and copy the style of old restaurant menu decorative elements.
+
 
 
 ## Technologies Used
