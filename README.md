@@ -203,13 +203,18 @@ Mobile:
 
 For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code.
 
-Other issues I've encountered:
+Cross-browser issues I've encountered:
 
 * smooth scrolling (`html {scroll-behavior: smooth;}`) doesn't work in Internet Explorer and Safari
 * `filter` property used to change colours of SVG files doesn't work in Internet Explorer
 * navigation links in responsive forms are underlined across the width instead of fitting the content (`width: fit-content`) in Internet Explorer and Mozilla
 * footer elements are left-aligned instead of being centered in responsive forms in Internet Explorer, Mozilla
 * header text is misplaced in Internet Explorer
+
+Other bugs:
+
+* when the user clicks on the "Book a Table" CTA in the navigation but closes the form without filling it in (i.e. closes the modal), the button's text colour doesn't go back to it's original one until the user clicks somewhere on the page
+* similarly, when the user clicks on social media icons in the footer and links out, the icons stay in their hover state until the user moves the cursor on desktop devices or clicks somewhere on the page on mobile devices
 
 
 
