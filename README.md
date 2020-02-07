@@ -84,6 +84,10 @@ Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-
 
 ![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gallery.png?raw=true)
 
+4. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
+
+![Collapsible Navigation](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-collapsible-navbar.png)
+
 ### Wireframes
 
 Low-fidelity wireframes are available at the following links:
@@ -205,6 +209,7 @@ Other issues I've encountered:
 * `filter` property used to change colours of SVG files doesn't work in Internet Explorer
 * navigation links in responsive forms are underlined across the width instead of fitting the content (`width: fit-content`) in Internet Explorer and Mozilla
 * footer elements are left-aligned instead of being centered in responsive forms in Internet Explorer, Mozilla
+* header text is misplaced in Internet Explorer
 
 
 
