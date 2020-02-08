@@ -12,7 +12,7 @@ This project is a one-page website for an allergen-free fine dining restaurant i
  
 With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe dining environment for people dealing with autoimmune disorders, allergies and food intolerances.
 
-Thanks to the recent discoveries by functional medicine practinioners and researchers, today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why the possibility of eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
+Thanks to the recent discoveries by functional medicine practinioners and researchers, today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
 
 A restaurant of such type requires a website covering user stories from two sides - the owner's perspective (business goals) and user's perspective (customer goals).
 
@@ -65,7 +65,7 @@ When everything put together, we get a brief overview of MVP features for the fi
 1. Booking a table online - a form that allows customers to make online reservations while they are already online and on the page, i.e. this feature doesn't let time to come between the 'consideration' and 'decision' phase of the customer.
 2. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices.
 3. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant.
-4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (calling, visiting in person, etc.)
+4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (typing a number, visiting in person, etc.)
 
 ### Features Left to Implement
 
@@ -106,7 +106,7 @@ The vision of Par Excellance is to become a synonym for elegance and classiness 
 
 Cursive fonts tend to be associated with elegance, luxury and high class. Brand in a handwritten font gives an impression there is someone behind it - as if someone would write it. It feels personal and as if there is a person inviting the customers to the restaurant. Many fine dining restaurants I've come accross online were named after their chef de cuisine or had their name in French. I've decided to combine these elements and opted for a French expression Par Excellance ("better or more than all others of the same kind") as the restaurant's name, place a French chef as the owner of the restaurant and use a cursive font for the logo - font Kristi.
 
-As this is a modern concept of a restaurant, I decided to put the rest of the content in Montserrat, a semi-formal font, and Raleway, a font which is often recommended to be paired with Montserrat. I wanted to break the seriousness of the cursive logo and the luxury associated with it so that the brand feel more friendly and affordable.
+As this is a modern concept of a restaurant, I decided to put the rest of the content in Montserrat, a semi-formal font, and Raleway, a font which is often recommended to be paired with Montserrat. I wanted to break the seriousness of the cursive logo and the luxury associated with it so that the brand feels more friendly and affordable.
 
 ### Colours
 
@@ -201,7 +201,7 @@ Mobile:
 
 ### Bugs and Problems
 
-For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few changes to make in the HTML code.
+For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few smaller changes to make in the HTML code.
 
 Cross-browser issues I've encountered:
 
@@ -215,6 +215,8 @@ Other bugs:
 
 * when the user clicks on the "Book a Table" CTA in the navigation but closes the form without filling it in (i.e. closes the modal), the button's text colour doesn't go back to it's original one until the user clicks somewhere on the page
 * similarly, when the user clicks on social media icons in the footer and links out, the icons stay in their hover state until the user moves the cursor on desktop devices or clicks somewhere on the page on mobile devices
+
+The issues listed in this section are still not solved.
 
 
 
