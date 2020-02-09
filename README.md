@@ -278,4 +278,5 @@ For more information please visit [here.](https://help.github.com/en/github/crea
 ### Acknowledgements
 
 * I would like to thank my mentor [Guido Cecilio](https://github.com/guidocecilio) for all the valuable inputs and advices!
-* Thank you [CodeInstitute's](https://codeinstitute.net/) Slack community for being there for annoying little bug questions
+* Thank you [Simen Daehlin](https://www.github.com/Eventyret) for taking time to review my project and giving me amazing suggestions how to improve it!
+* Last but not least, thank you [CodeInstitute's](https://codeinstitute.net/) Slack community for being there for annoying little bug questions
