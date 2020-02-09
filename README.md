@@ -9,7 +9,7 @@ This project is a one-page website for an allergen-free fine dining restaurant i
 
 
 ## UX
- 
+
 With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe dining environment for people dealing with autoimmune disorders, allergies and food intolerances.
 
 Thanks to the recent discoveries by functional medicine practinioners and researchers, today we know as a fact that, for example, gluten can cause problems to certain individuals for up to 6 months after the ingestion. This is why eating a dish from a kitchen where allergens are handled is a high risk for a great number of people. As a consequence, people with autoimmune disorders stay away from eating out which makes their social, private and business life more difficult while simultaneously, restaurant owners are loosing valuable customers who are ready to spend more to dine out.
