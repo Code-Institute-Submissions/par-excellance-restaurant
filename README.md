@@ -48,19 +48,19 @@ When everything put together, we get a brief overview of MVP features for the fi
 ### Sections
 
 1. Top navigation bar - fixed on the top so that the users are able to navigate themselves anywhere they are on the page.
-2. Header - introduction to the website. Image indicates the product is eating related, logotype indicates it's an elegant place, CTA to book a table indicates it's about eating out and not ordering food, for example.
-3. About section - explains the concept and the offer of the restaurant.
-4. Menu section - gives the user more information about the quality and ingredients used in the restaurant with an option to download the menu as a PDF to learn more about the offer and prices before the visit.
-5. Review section - positive feedbacks from previous customers to encourage the visit and set expectations.
-6. Restaurant details section - provides relevant contact details and information about opening hours.
-7. Footer - gives users the option to stay up to date with the restaurants news and events by subscribing to the newsletter and linking to social media profiles.
+1. Header - introduction to the website. Image indicates the product is eating related, logotype indicates it's an elegant place, CTA to book a table indicates it's about eating out and not ordering food, for example.
+1. About section - explains the concept and the offer of the restaurant.
+1. Menu section - gives the user more information about the quality and ingredients used in the restaurant with an option to download the menu as a PDF to learn more about the offer and prices before the visit.
+1. Review section - positive feedbacks from previous customers to encourage the visit and set expectations.
+1. Restaurant details section - provides relevant contact details and information about opening hours.
+1. Footer - gives users the option to stay up to date with the restaurants news and events by subscribing to the newsletter and linking to social media profiles.
 
 ### Features
 
 1. Booking a table online - a form that allows customers to make online reservations while they are already online and on the page, i.e. this feature doesn't let time to come between the 'consideration' and 'decision' phase of the customer.
-2. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices.
-3. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant.
-4. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (typing a number, visiting in person, etc.)
+1. PDF menu - menu in a PDF form in a new tab that allows users to get familiar with the dishes and prices.
+1. Newsletter subscription and social media profiles' links - allow users to stay up to date with the latest news and events connected to the restaurant.
+1. Shortcuts behind contact details - allow users to quickly email, call or see the restaurant on a map in order to avoid additional steps in contacting the restaurant (typing a number, visiting in person, etc.)
 
 ### Features Left to Implement
 
@@ -69,17 +69,17 @@ Example taken from a fine dining restaurant [Lorenz Adlon.](https://www.lorenzad
 
 ![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-calendar.png?raw=true)
 
-2. Google maps frame - it would allow users to have information about the restaurant location at a glance.
+1. Google maps frame - it would allow users to have information about the restaurant location at a glance.
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gmaps.png?raw=true)
 
-3. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
+1. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gallery.png?raw=true)
 
-4. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
+1. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
 
 ![Collapsible Navigation](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-collapsible-navbar.png)
 
@@ -118,25 +118,25 @@ The decoration image (the curved line) between the sections is there to break th
 This project greatly focuses on the following technologies:
 
 1. [HTML](https://en.wikipedia.org/wiki/HTML) - for creating the layout and the structure of the website
-2. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
-3. [Bootstrap](https://getbootstrap.com/) - for additional styling and adding responsiveness to the website
-4. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website and for [JS Scrollspy](https://www.w3schools.com/bootstrap/bootstrap_ref_js_scrollspy.asp)
-5. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
-6. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
-7. [Git](https://git-scm.com/) - for version control
+1. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
+1. [Bootstrap](https://getbootstrap.com/) - for additional styling and adding responsiveness to the website
+1. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website and for [JS Scrollspy](https://www.w3schools.com/bootstrap/bootstrap_ref_js_scrollspy.asp)
+1. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
+1. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
+1. [Git](https://git-scm.com/) - for version control
 
 Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for some components to function properly:
 
 1. [jQuery](https://jquery.com/)
-2. [Popper.js](https://popper.js.org/)
-3. [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+1. [Popper.js](https://popper.js.org/)
+1. [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 Additionally, I have also used the following platforms to help me shape the website and the brand:
 
 1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
-2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
-3. [Figma](https://www.figma.com/) - for creating wireframes and designs
-4. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for calculating colours of svg images
+1. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
+1. [Figma](https://www.figma.com/) - for creating wireframes and designs
+1. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for calculating colours of svg images
 
 ## Testing
 
@@ -148,7 +148,7 @@ Desktop:
   * Google Chrome
   * Internet Explorer
   * Mozilla
-2. MacBook
+1. MacBook
   * Google Chrome
   * Safari
   * Opera
@@ -157,36 +157,36 @@ Desktop:
 Mobile:
 1. iPhone 8
   * Safari
-2. HTC
+1. HTC
   * Google Chrome
 
 ### Testing the Features
 
 * Reservation form
   1. Click on a "Book a table" CTA (in the navigation, header or contact section)
-  2. Submit the empty form to confirm the appearance of the error message for the required fields
-  3. Submit the form with an invalid email address to confirm the apprearance of the error message
-  4. Submit the form with the correct content in all required fields to confirm that the alert appears after the submission as a success message.
+  1. Submit the empty form to confirm the appearance of the error message for the required fields
+  1. Submit the form with an invalid email address to confirm the apprearance of the error message
+  1. Submit the form with the correct content in all required fields to confirm that the alert appears after the submission as a success message.
 
 * Newsletter subscription
   1. Go to the footer section of the page
-  2. Subscribe with empty content to confirm the appearance of the error message for the email input fields
-  3. Subscribe with an invalid email address to confirm the apprearance of the error message
-  4. Subscribe with a valid email address to confirm that the alert appears after the submission as a success message.
+  1. Subscribe with empty content to confirm the appearance of the error message for the email input fields
+  1. Subscribe with an invalid email address to confirm the apprearance of the error message
+  1. Subscribe with a valid email address to confirm that the alert appears after the submission as a success message.
 
 * PDF menu
   1. Go to the Menu section of the page or click on the "Menu" link in the navigation
-  2. Click on the "See our menu" CTA to confirm another tab opens with a PDF previewed in it.
+  1. Click on the "See our menu" CTA to confirm another tab opens with a PDF previewed in it.
 
 * Social media profiles' links
   1. Go to the footer of the page
-  2. Click on each of the social media icons to confirm another tab opens with a link to the social media platform the icon represents.
+  1. Click on each of the social media icons to confirm another tab opens with a link to the social media platform the icon represents.
 
 * Shortcuts behind contact details
   1. Go to the Contact section of the page or click on the "Contact" link in the navigation
-  2. Click on the email adress in the Contact section to confirm email provider opens in another window which allows you to send emails to the address
-  3. Click on the phone number in the Contact section to confirm another window opens which allows you to call that number
-  4. Click on the address in the Contact section to confirm another tab opens with the location pinned to a Google Map.
+  1. Click on the email adress in the Contact section to confirm email provider opens in another window which allows you to send emails to the address
+  1. Click on the phone number in the Contact section to confirm another window opens which allows you to call that number
+  1. Click on the address in the Contact section to confirm another tab opens with the location pinned to a Google Map.
 
 ### Bugs and Problems
 
@@ -214,11 +214,11 @@ The issues listed in this section are still not solved.
 To deploy a website on GitHub Pages, follow these steps:
 
 1. Go to the repository page
-2. Click on settings icon in the top of the page
-3. Find "GitHub Pages" section
-4. Click on the "Source" dropdown menu
-5. Select "master branch" option
-6. A green success message should appear in the "GitHub Pages" section with the link to the live preview of the project.
+1. Click on settings icon in the top of the page
+1. Find "GitHub Pages" section
+1. Click on the "Source" dropdown menu
+1. Select "master branch" option
+1. A green success message should appear in the "GitHub Pages" section with the link to the live preview of the project.
 
 For more information please visit [here.](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
@@ -227,11 +227,11 @@ For more information please visit [here.](https://help.github.com/en/github/work
 To create a local copy of a repository, follow these steps:
 
 1. Go to the repository page
-2. Click on the "Clone or download" button in the top of the page
-3. Click the check list icon on the right of the newly opened window to clone the repository using HTTPS
-4. Open Terminal
-5. Change the current working directory to the location where you want the cloned directory to be made
-6. Type "git clone" and paste the URL you copied in step 3 and run the command
+1. Click on the "Clone or download" button in the top of the page
+1. Click the check list icon on the right of the newly opened window to clone the repository using HTTPS
+1. Open Terminal
+1. Change the current working directory to the location where you want the cloned directory to be made
+1. Type "git clone" and paste the URL you copied in step 3 and run the command
 
 For more information please visit [here.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
