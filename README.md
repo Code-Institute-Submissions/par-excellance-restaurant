@@ -19,6 +19,7 @@ The original project proposal to my mentor can be viewed [here.](https://github.
 ### Business Goals
 
 As a restaurant owner...
+
 * I want customers to know I’m unique on the market so that they can easily differentiate me from competitors
 * I want customers to make online reservations so that my service staff saves time and efforts answering phone calls
 * I want customers to get updates about my restaurant so that they stay informed about the latest news and events
@@ -26,6 +27,7 @@ As a restaurant owner...
 ### Customer Goals
 
 As a customer...
+
 * I want to read the menu so that I can see if the food fits my diet and lifestyle
 * I want to know the prices so that I can see if the restaurant's offer fits my budget
 * I want to see ratings and reviews of the restaurant so that I can see what other customers think about the restaurant
@@ -65,16 +67,19 @@ When everything put together, we get a brief overview of MVP features for the fi
 ### Features Left to Implement
 
 1. Booking through a calendar UI - instead of an online booking form in the current shape, the modal would look like a calendar which would give you date and time availability.
+
 Example taken from a fine dining restaurant [Lorenz Adlon.](https://www.lorenzadlon-esszimmer.de/)
 
 ![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-calendar.png?raw=true)
 
 1. Google maps frame - it would allow users to have information about the restaurant location at a glance.
+
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gmaps.png?raw=true)
 
 1. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
+
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-additional-gallery.png?raw=true)
@@ -144,6 +149,7 @@ The project's code was validated through [W3 CSS validator](http://www.css-valid
 Additionally, I've tested the website's preview on the devices and browsers listed below. More about the errors I've encountered can be find under the 'Bugs and Problems' title.
 
 Desktop:
+
 1. Acer
   * Google Chrome
   * Internet Explorer
@@ -155,6 +161,7 @@ Desktop:
   * Mozilla
 
 Mobile:
+
 1. iPhone 8
   * Safari
 1. HTC
