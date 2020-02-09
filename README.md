@@ -6,8 +6,6 @@ This project is a one-page website for an allergen-free fine dining restaurant i
 
 ![Website Showcase](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/%20img-showcase.png?raw=true)
 
-
-
 ## UX
 
 With the rise of autoimmune health issues which are closely connected to diet and lifestyle, the main problem this project is trying to solve is to provide a safe dining environment for people dealing with autoimmune disorders, allergies and food intolerances.
@@ -35,8 +33,6 @@ As a customer...
 * I want to contact the restaurant easily so that I can ask if I have additional questions or give my feedback
 * I want to know when the restaurant is open and where is it so that I can make plans for a visit in advance
 
-
-
 ## Features and Page Sections
 
 Based on the user stories, I've created brief overviews of the website information and features that should be provided in order to successfully reach both users' and website owner's goals.
@@ -48,7 +44,6 @@ Some of the information and features overlap, while some are strictly customer o
 When everything put together, we get a brief overview of MVP features for the first round of implementation:
 
 ![Information and Features Overview](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/images_readme/img-information-features-overview.png?raw=true)
-
 
 ### Sections
 
@@ -96,8 +91,6 @@ Low-fidelity wireframes are available at the following links:
 * [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/wireframes_readme/img-wireframe-tablet.png)
 * [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/assets/readme_assets/wireframes_readme/img-wireframe-mobile.png)
 
-
-
 ## Graphic Design and Brand Elements
 
 The vision of Par Excellance is to become a synonym for elegance and classiness among the restaurants while at the same time it represents mindful eating. It's competitors are fine dining restaurants on the one hand and modern clean eating diners on the other hand. By analysing competitors I've decided to follow these principles to highlight the product and form the brand.
@@ -119,8 +112,6 @@ Besides colours, the visual style of the brand is shown through imagery and styl
 The elements on the website have sharp edges and are rectangular or square in shape. The idea behind this decision is to be more traditional so the customer would associate the brand with professionality.
 
 The decoration image (the curved line) between the sections is there to break the sharpness of the site's elements and copy the style of old restaurant menu decorative elements.
-
-
 
 ## Technologies Used
 
@@ -146,8 +137,6 @@ Additionally, I have also used the following platforms to help me shape the webs
 2. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
 3. [Figma](https://www.figma.com/) - for creating wireframes and designs
 4. [Codepen.io/Sosuke](https://codepen.io/sosuke/pen/Pjoqqp) - for calculating colours of svg images
-
-
 
 ## Testing
 
@@ -218,8 +207,6 @@ Other bugs:
 
 The issues listed in this section are still not solved.
 
-
-
 ## Deployment
 
 ### GitHub Pages
@@ -247,8 +234,6 @@ To create a local copy of a repository, follow these steps:
 6. Type "git clone" and paste the URL you copied in step 3 and run the command
 
 For more information please visit [here.](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-
-
 
 ## Credits
 
