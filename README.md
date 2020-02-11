@@ -252,7 +252,7 @@ For more information please visit [here.](https://help.github.com/en/github/crea
 
 * The photos on the website are taken from [Unsplash](https://unsplash.com/)
 * The icons are taken from [Font Awesome](https://fontawesome.com/) and [Feather](https://feathericons.com/)
-* Food label icons are made by [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) from [www.flaticon.com](https://www.flaticon.com/)
+* Food label icons are made by [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) from [Flaticon](https://www.flaticon.com/)
 * Burger menu icon and decorative svg image are designed by me
 
 ### Inspiration Sources
