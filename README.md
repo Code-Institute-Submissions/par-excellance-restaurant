@@ -126,8 +126,6 @@ This project greatly focuses on the following technologies:
 1. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for styling the website’s HTML code
 1. [Bootstrap](https://getbootstrap.com/) - for additional styling and adding responsiveness to the website
 1. [JavaScript](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - for adding alerts to the demo forms on the website and for [JS Scrollspy](https://www.w3schools.com/bootstrap/bootstrap_ref_js_scrollspy.asp)
-1. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
-1. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
 1. [Git](https://git-scm.com/) - for version control
 
 Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for some components to function properly:
@@ -138,6 +136,8 @@ Technology used that is connected to [Bootstrap](https://getbootstrap.com/) for 
 
 Additionally, I have also used the following platforms to help me shape the website and the brand:
 
+1. [Gitpod](https://gitpod.io/) - for writing, editing and live previewing the code during the creation process
+1. [GitHub](https://github.com/) - for hosting the project's repository and creating a preview link on GitHug pages
 1. [TinyPNG](https://tinypng.com/) - for compressing the images so that the website can load faster
 1. [Google Fonts](https://fonts.google.com/) - for selecting the fonts and implementing them into the HTML code
 1. [Figma](https://www.figma.com/) - for creating wireframes and designs
