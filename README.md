@@ -14,7 +14,7 @@ Thanks to the recent discoveries by functional medicine practinioners and resear
 
 A restaurant of such type requires a website covering user stories from two sides - the owner's perspective (business goals) and user's perspective (customer goals).
 
-The original project proposal to my mentor can be viewed [here.](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/MSTP_1_proposal-Valentina_Bedi.pdf)
+The original project proposal to my mentor can be viewed [here.](https://github.com/valentina-b/milestone-project-1/blob/master/assets/readme_assets/MSTP-1-proposal-valentina_bedi.pdf)
 
 ### Business Goals
 
