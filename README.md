@@ -92,9 +92,9 @@ Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-
 
 Low-fidelity wireframes are available at the following links:
 
-* [Desktop wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes_readme/img-wireframe-desktop.png)
-* [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes_readme/img-wireframe-tablet.png)
-* [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes_readme/img-wireframe-mobile.png)
+* [Desktop wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes/img-wireframe-desktop.png)
+* [Tablet wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes/img-wireframe-tablet.png)
+* [Mobile wireframe](https://raw.githubusercontent.com/valentina-b/milestone-project-1/master/readme-files/wireframes/img-wireframe-mobile.png)
 
 ## Graphic Design and Brand Elements
 
