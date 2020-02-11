@@ -136,8 +136,6 @@ h2 {
 
 @media (max-width: 992px) {
     .navbar-light .navbar-nav .nav-link.active {
-        border-bottom: 1px solid #ffffff;
-        color: #ffffff;
         width: fit-content;
     }
 }
@@ -165,7 +163,6 @@ header {
 @media (max-width: 991px) {
     header {
         background: url('../images/img-header.jpg') no-repeat center center;
-        height: 100vh;
         background-size: cover;
     }
 }
