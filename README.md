@@ -4,7 +4,7 @@ Code Institute - Milestone Project 1
 
 This project is a one-page website for an allergen-free fine dining restaurant in London. The purpose of this website is to put emphasis on the uniqueness of the restaurant's concept on the market - while making sure the website is as informative and as functional as possible to the potential customers visiting the page.
 
-![Website Showcase](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/%20img-showcase.png?raw=true)
+![Website Showcase](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/%20img-showcase.png?raw=true)
 
 ## UX
 
@@ -41,11 +41,11 @@ Based on the user stories, I've created brief overviews of the website informati
 
 Some of the information and features overlap, while some are strictly customer or business related:
 
-![Goals Overview](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-goals-overview.png?raw=true)
+![Goals Overview](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-goals-overview.png?raw=true)
 
 When everything put together, we get a brief overview of MVP features for the first round of implementation:
 
-![Information and Features Overview](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-information-features-overview.png?raw=true)
+![Information and Features Overview](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-information-features-overview.png?raw=true)
 
 ### Sections
 
@@ -70,23 +70,23 @@ When everything put together, we get a brief overview of MVP features for the fi
 
 Example taken from a fine dining restaurant [Lorenz Adlon.](https://www.lorenzadlon-esszimmer.de/)
 
-![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-additional-calendar.png?raw=true)
+![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-calendar.png?raw=true)
 
 1. Google maps frame - it would allow users to have information about the restaurant location at a glance.
 
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
-![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-additional-gmaps.png?raw=true)
+![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-gmaps.png?raw=true)
 
 1. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
 
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
-![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-additional-gallery.png?raw=true)
+![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-gallery.png?raw=true)
 
 1. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
 
-![Collapsible Navigation](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images_readme/img-additional-collapsible-navbar.png)
+![Collapsible Navigation](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-collapsible-navbar.png)
 
 ### Wireframes
 
