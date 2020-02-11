@@ -72,19 +72,19 @@ Example taken from a fine dining restaurant [Lorenz Adlon.](https://www.lorenzad
 
 ![Calendar Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-calendar.png?raw=true)
 
-1. Google maps frame - it would allow users to have information about the restaurant location at a glance.
+2. Google maps frame - it would allow users to have information about the restaurant location at a glance.
 
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Google Maps Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-gmaps.png?raw=true)
 
-1. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
+3. Gallery of dishes or restaurant photos - a gallery of photos would be a great way to add more visual content to the site which would support the restaurant's concept and give an idea of the restaurant's environment.
 
 Example taken from a fine dining restaurant [Jacobs Restaurant.](https://jacobs-restaurant.de/)
 
 ![Gallery Feature](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-gallery.png?raw=true)
 
-1. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
+4. Collapsible navigation on smaller devices - a feature that would improve the UX of the website. The expanded navigation currently stays open after clicking on a link.
 
 ![Collapsible Navigation](https://github.com/valentina-b/milestone-project-1/blob/master/readme-files/images-readme/img-additional-collapsible-navbar.png)
 
