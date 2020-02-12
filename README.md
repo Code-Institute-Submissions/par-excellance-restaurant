@@ -147,7 +147,9 @@ Additionally, I have also used the following platforms to help me shape the webs
 
 The project's code was validated through [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/).
 
-Additionally, I've tested the website's preview on the devices and browsers listed below. My testing process consisted of opening the website on a particular device and browser combination. I then checked for any visual irregularities and tested features as mentioned in the following 'Testing the Features' section. More about the errors I've encountered can be find under the 'Bugs and Problems' title.
+Additionally, I've tested the website's preview on the devices and browsers listed below. My testing process consisted of opening the website on a particular device and browser combination. I then checked for any visual irregularities and tested features as mentioned in the following 'Testing the Features' section.
+
+More about the errors I've encountered can be find under the 'Bugs and Problems' title.
 
 Desktop:
 
@@ -155,7 +157,7 @@ Desktop:
   * Google Chrome
   * Internet Explorer
   * Mozilla
-1. MacBook
+2. MacBook
   * Google Chrome
   * Safari
   * Opera
@@ -165,7 +167,7 @@ Mobile:
 
 1. iPhone 8
   * Safari
-1. HTC
+2. HTC
   * Google Chrome
 
 ### Testing the Features
