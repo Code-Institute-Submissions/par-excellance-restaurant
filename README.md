@@ -146,7 +146,8 @@ Additionally, I have also used the following platforms to help me shape the webs
 ## Testing
 
 The project's code was validated through [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/).
-Additionally, I've tested the website's preview on the devices and browsers listed below. More about the errors I've encountered can be find under the 'Bugs and Problems' title.
+
+Additionally, I've tested the website's preview on the devices and browsers listed below. My testing process consisted of opening the website on a particular device and browser combination. I then checked for any visual irregularities and tested features as mentioned in the following 'Testing the Features' section. More about the errors I've encountered can be find under the 'Bugs and Problems' title.
 
 Desktop:
 
@@ -197,9 +198,11 @@ Mobile:
 
 ### Bugs and Problems
 
-For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few smaller changes to make in the HTML code.
+For the code validation I used [W3 CSS validator](http://www.css-validator.org/) and [W3 HTML validator](https://validator.w3.org/nu/). The CSS code was correct but I had a few smaller changes to make in the HTML code. For example, I've replaced a `<div>` tag with a `<fieldset>` tag in the booking form and corrected `<pre>` tags by taking them out of a `<p>` tag.
 
-Cross-browser issues I've encountered:
+The following cross-browser issues and other bugs haven't been fixed yet due to lack of knowledge.
+
+Cross-browser issues I've encountered by testing on above mentioned devices and browsers:
 
 * smooth scrolling (`html {scroll-behavior: smooth;}`) doesn't work in Internet Explorer and Safari
 * `filter` property used to change colours of SVG files doesn't work in Internet Explorer
@@ -211,8 +214,6 @@ Other bugs:
 
 * when the user clicks on the "Book a Table" CTA in the navigation but closes the form without filling it in (i.e. closes the modal), the button's text colour doesn't go back to it's original one until the user clicks somewhere on the page
 * similarly, when the user clicks on social media icons in the footer and links out, the icons stay in their hover state until the user moves the cursor on desktop devices or clicks somewhere on the page on mobile devices
-
-The issues listed in this section are still not solved.
 
 ## Deployment
 
